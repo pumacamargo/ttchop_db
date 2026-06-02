@@ -1,0 +1,47 @@
+VIDEO TEMPLATE BASE
+
+This template defines the visual style, environment, creator behavior, pacing, dialogue style, and output structure of the video.
+
+The creator is always the primary subject.
+
+The product supports the story but should not replace the creator as the main focus.
+
+The video should feel authentic, realistic, and native to social media rather than a traditional advertisement.
+
+VISUAL GUIDELINES
+
+- Keep the creator visible during most of the video.
+- Use realistic camera movement.
+- Use natural eye contact and believable body language.
+- Keep the environment visually consistent.
+- Integrate the product naturally into the creator's activity.
+- Prefer simple visual sequences appropriate for short-form content.
+- Product shots should support what the creator is saying.
+
+DIALOGUE GUIDELINES
+
+- Dialogue should sound conversational and natural.
+- The creator should speak like a real person sharing a personal experience.
+- Avoid corporate language, sales language, and feature dumping.
+- Focus on a single idea, problem, discovery, or outcome.
+- Keep dialogue short enough for the intended video duration.
+
+REALISM GUIDELINES
+
+- Favor realism over marketing.
+- Avoid exaggerated reactions.
+- Avoid unnatural behavior.
+- Avoid unrealistic demonstrations.
+- Avoid obvious advertising language.
+
+OUTPUT
+
+The template may define its own output structure.
+
+If an output format is explicitly defined, follow it exactly.
+
+If no output format is defined, generate the format that best matches the template requirements.
+
+FINAL GOAL
+
+Create a realistic creator-driven video where the creator remains the main focus and the product is naturally integrated into the story.
