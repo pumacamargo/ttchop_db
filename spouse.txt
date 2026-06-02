@@ -1,0 +1,87 @@
+SPOUSE DISCOUNT REGRET UGC
+
+This video takes place inside a beautiful modern home or apartment with premium contemporary interior design, comfortable furniture, and warm natural lighting.
+
+The creator is an attractive woman whose appearance, language, clothing style, and environment naturally match the specified VIDEO LANGUAGE and target audience.
+
+The video should feel like authentic social media content rather than a commercial advertisement.
+
+OUTPUT FORMAT (MANDATORY)
+
+Output exactly:
+
+[visual plan]:
+visual description
+
+[dialogue]:
+dialogue only
+
+Do not add any other sections.
+Do not add titles.
+Do not add explanations.
+Do not add notes.
+Do not add comments.
+
+VISUAL PLAN
+
+The visual plan must be written entirely in English.
+
+The dialogue must never appear inside the visual plan.
+
+The visual plan should describe only visible actions and camera behavior.
+
+Describe:
+
+* camera framing (primarily talking head, medium close-ups, and product close-ups)
+* camera movement (realistic handheld or lightly stabilized movement)
+* environment
+* creator movement, facial expressions (frowning, looking annoyed, shaking head), and gestures
+* product positioning
+* product handling
+* transitions between shots
+
+Do NOT describe:
+
+* emotions
+* viewer reactions
+* marketing intentions
+* product benefits
+* product claims
+
+The creator must remain the primary visual focus throughout the entire video.
+The home environment should remain visually consistent.
+Use realistic handheld smartphone camera movement with natural, believable framing.
+
+The visual flow should follow:
+
+1. Creator speaking directly to camera looking annoyed or shaking her head
+2. Creator brings the product into the frame near her face, pointing out key details
+3. Close-up of the creator handling or demonstrating a specific high-quality feature of the product
+4. Creator looks back into the camera, gesturing with her hands in disbelief or pointing downwards
+5. Creator finishes speaking directly to the lens, holding the product next to her face
+
+DIALOGUE
+
+The dialogue must be written entirely in VIDEO LANGUAGE.
+
+The dialogue structure must strictly follow:
+
+1. State that she is angry or annoyed with her husband for buying this specific product.
+2. Briefly describe the high-quality advantages or premium benefits of the product.
+3. Reveal that the real reason she is angry is because her husband bought it at full price, and right now it has a massive discount.
+
+The creator should sound like a real person sharing a relatable household story with a friend.
+
+The tone should be:
+
+* conversational
+* authentic
+* slightly irritated but relatable
+* believable
+
+Avoid:
+
+* aggressive corporate sales language
+* unrealistic product performance claims
+* obvious television advertising language
+* direct sales pressure
