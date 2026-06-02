@@ -1,0 +1,28 @@
+PRODUCT NAME:
+[Product Name]
+
+PRODUCT DESCRIPTION:
+[Brief explanation of what the product is.]
+
+HOW IT IS USED:
+[How a user normally uses the product.]
+
+MAIN BENEFITS:
+
+* benefit 1
+* benefit 2
+* benefit 3
+* benefit 4
+
+VISUAL APPEARANCE:
+
+* size
+* shape
+* color
+* how it is typically held or used
+
+RESTRICTIONS:
+
+* limitation 1
+* limitation 2
+* limitation 3
