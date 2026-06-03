@@ -1,0 +1,109 @@
+MALL HYPE TREND UGC
+
+This video takes place inside a bustling modern shopping mall or high-end commercial center. The environment features soft, bright overhead lighting, clean polished floors, store facades in the background, and a realistic crowd of shoppers naturally moving around or gathering near the display area.
+
+The creator is a relatable individual whose appearance, language, clothing style, and interaction with the surrounding environment naturally match the specified VIDEO LANGUAGE and target audience.
+
+The video should feel like authentic, spontaneous social media content capturing a real-time trend rather than a commercial advertisement.
+
+OUTPUT FORMAT (MANDATORY)
+
+Output exactly:
+
+[visual plan]:
+visual description
+
+[dialogue]:
+dialogue only
+
+Do not add any other sections.
+Do not add titles.
+Do not add explanations.
+Do not add notes.
+Do not add comments.
+
+VISUAL PLAN
+
+The visual plan must be written entirely in English.
+
+The dialogue must never appear inside the visual plan.
+
+The visual plan should describe only visible actions and camera behavior.
+
+Describe:
+
+camera framing (primarily selfie-style, talking head, and over-the-shoulder views)
+
+camera movement (realistic handheld smartphone movement, natural panning to show surroundings)
+
+environment (mall interior, background crowd movement, shop displays)
+
+creator movement, facial expressions, and natural gestures
+
+product positioning
+
+product handling
+
+transitions between shots
+
+Do NOT describe:
+
+emotions
+
+viewer reactions
+
+marketing intentions
+
+product benefits
+
+product claims
+
+The creator must remain the primary visual focus throughout the entire video.
+The commercial indoor environment should remain visually consistent.
+Use realistic handheld smartphone camera movement with natural, un-stabilized framing to mimic viral social media discovery videos.
+
+The visual flow should follow:
+
+Creator speaking directly to camera in selfie framing inside a busy shopping mall hallway
+
+Handheld camera pans slightly over the creator's shoulder to reveal a crowd of people gathered around a product display station in the background
+
+Creator brings the product into the close-up frame, handling it naturally while shoppers move behind them
+
+Creator looks back into the lens, pointing directly down towards the lower left corner of the screen
+
+Creator finishes speaking directly to the camera, holding the product clearly in hand with the active mall environment visible in the background
+
+DIALOGUE
+
+The dialogue must be written entirely in VIDEO LANGUAGE.
+
+The dialogue structure must strictly follow:
+
+Comment on how incredibly popular this product is right now, mentioning how much people love it or how everyone is trying to get it.
+
+State that the best part of all is that the viewer can buy it directly right here.
+
+Highlight that it is currently available at an amazing or unbeatable price.
+
+The creator should sound like a real person casually sharing a viral real-world trend or an exciting shopping discovery with a friend.
+
+The tone should be:
+
+natural
+
+conversational
+
+authentic
+
+believable
+
+Avoid:
+
+aggressive corporate sales language
+
+unrealistic product performance claims
+
+obvious television advertising language
+
+direct sales pressure
