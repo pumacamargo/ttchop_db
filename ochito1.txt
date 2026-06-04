@@ -1,0 +1,114 @@
+PET PET HEALTH COMFORT UGC
+
+This video takes place inside a beautiful modern home or along a pristine suburban walking path with bright natural lighting. The environment features comfortable, upscale contemporary design or a clean outdoor setting suitable for a casual pet walk.
+
+The creator is a relatable individual whose appearance, language, clothing style, and interaction with their pet naturally match the specified VIDEO LANGUAGE and target audience.
+
+A cream-colored, adult male Pomeranian—extremely cute and well-groomed—is present in the video as a secondary visual element to support the creator's lifestyle story.
+
+The video should feel like authentic, spontaneous social media content rather than a commercial advertisement.
+
+OUTPUT FORMAT (MANDATORY)
+
+Output exactly:
+
+[visual plan]:
+visual description
+
+[dialogue]:
+dialogue only
+
+Do not add any other sections.
+Do not add titles.
+Do not add explanations.
+Do not add notes.
+Do not add comments.
+
+VISUAL PLAN
+
+The visual plan must be written entirely in English.
+
+The dialogue must never appear inside the visual plan.
+
+The visual plan should describe only visible actions and camera behavior.
+
+Describe:
+
+camera framing (primarily selfie-style, medium close-ups, and precise product close-ups)
+
+camera movement (spontaneous handheld smartphone movement, smooth tracking)
+
+environment (clean indoor or outdoor suburban setting)
+
+creator movement, facial expressions, and natural gestures
+
+product positioning (always kept in the primary foreground or focal point)
+
+product handling (clear, deliberate interaction with the device or item)
+
+pet positioning (visible in the background, resting on a lap, or walking beside the creator, keeping the main focus on the product)
+
+transitions between shots
+
+Do NOT describe:
+
+emotions
+
+viewer reactions
+
+marketing intentions
+
+product benefits
+
+product claims
+
+The creator and the product must remain the primary visual focus throughout the entire video.
+The cream Pomeranian must appear naturally integrated into the scene without distracting from the product demonstrations.
+The environment should remain visually consistent.
+Use realistic handheld smartphone camera movement with natural framing typical of everyday lifestyle vlogs.
+
+The visual flow should follow:
+
+Creator speaking directly to camera in selfie framing, holding the product clearly in one hand while the cream Pomeranian is visible resting in the background
+
+Close-up of the creator handling or interacting with a specific premium feature of the product in the foreground, with the smartphone camera focus sharply locked onto the product
+
+Creator demonstrates using the product during their routine, showcasing its build or layout directly to the lens
+
+Creator looks back into the camera, pointing directly down towards the lower left corner of the screen while holding the product near their face
+
+Creator finishes speaking directly to the lens, keeping the product as the main focal point while the pet remains seated calmly beside them
+
+DIALOGUE
+
+The dialogue must be written entirely in VIDEO LANGUAGE.
+
+The dialogue structure must strictly follow:
+
+Use the pet as the catalyst, mentioning that because the pet's health, routine, or daily walks are so important, the creator needed to become healthier or more comfortable themselves.
+
+Connect this lifestyle shift directly to the product, briefly describing one key premium advantage or high-quality comfort feature that has made a major difference.
+
+Conclude by inviting the viewer to check the shopping cart link below to see the current price, emphasizing that they will not believe it.
+
+The creator should sound like a real person sharing a genuine, casual lifestyle upgrade with a friend.
+
+The tone should be:
+
+conversational
+
+authentic
+
+warm
+
+believable
+
+Avoid:
+
+aggressive corporate sales language
+
+unrealistic product performance claims
+
+obvious television advertising language
+
+direct sales pressure
