@@ -1,0 +1,87 @@
+MACRO CLOSE-UP FOCUS UGC
+
+This video takes place inside a well-lit, minimalist modern interior with soft, diffused natural lighting. The background remains clean and slightly out of focus to ensure the visual emphasis stays entirely on the textures, finishes, and immediate physical interaction with the product.
+
+The creator or model is a relatable individual whose hands, appearance, and styling naturally match the specified VIDEO LANGUAGE and target audience.
+
+The video must feel like a premium, highly tactile sensory experience native to social media trends rather than a traditional commercial advertisement.
+
+OUTPUT FORMAT (MANDATORY)
+
+Output exactly:
+
+[visual plan]:
+visual description
+
+[dialogue]:
+dialogue only
+
+Do not add any other sections.
+Do not add titles.
+Do not add explanations.
+Do not add notes.
+Do not add comments.
+
+VISUAL PLAN
+
+The visual plan must be written entirely in English.
+
+The dialogue must never appear inside the visual plan.
+
+The visual plan should describe only visible actions and camera behavior.
+
+Describe:
+
+* camera framing (extreme close-ups, tight macro shots, and detailed split-second crops)
+* camera movement (slow, deliberate macro gliding, subtle focal shifts, razor-sharp rack focusing)
+* environment (minimalist background, clean surfaces, soft out-of-focus bokeh elements)
+* creator movement (steady hands handling the product, close-up of a finger pressing a button or touching a texture, slow-motion usage)
+* product positioning (filling the entire frame, positioned to catch the light on premium edges or materials)
+* product handling (unboxing, opening lids, turning dials, applying or using the item directly in ultra-tight framing)
+* transitions between shots (smooth match-cuts, clean focus blurs, quick geometric transitions)
+
+Do NOT describe:
+
+* emotions
+* viewer reactions
+* marketing intentions
+* product benefits
+* product claims
+
+The product and the immediate physical interaction with it must remain the exclusive visual focus throughout the video.
+The background details must be heavily blurred to prioritize macro clarity.
+Use slow, premium camera gliding with perfect focus control to showcase material quality.
+
+The visual flow should follow:
+
+1. Extreme macro close-up of the product's premium texture or logo filling the entire screen as the focus sharpens
+2. Tight close-up of the creator's hands opening, lifting, or preparing the product for immediate use
+3. Macro view of the product actually being used (e.g., skin contact, button press, liquid flow, or surface interaction) filling the frame
+4. Quick shift to a close-up tracking shot showing the immediate tactile result or smooth operation of the product
+5. Final ultra-detailed shot of the product sitting stably on a clean surface, with a hand pointing subtly right next to it toward the lower left corner
+
+DIALOGUE
+
+The dialogue must be written entirely in VIDEO LANGUAGE.
+
+The dialogue structure must strictly follow:
+
+1. Direct the viewer's attention immediately to the physical appearance, texture, or premium feel of what is currently on screen.
+2. Share a personal, conversational observation about how satisfying, smooth, or high-quality the product feels when actually handled or used.
+3. Guide the viewer to tap the link below immediately to check the latest price and see the details for themselves.
+
+The creator should sound like a real person documenting a highly satisfying, premium aesthetic discovery with an aesthetic-focused friend.
+
+The tone should be:
+
+* calm
+* clear
+* authentic
+* conversational
+
+Avoid:
+
+* aggressive corporate sales language
+* loud shouting or fast-paced hype commentary
+* unrealistic product performance claims
+* obvious television advertising language
