@@ -1,0 +1,87 @@
+ULTRA-RAW CASUAL UGC
+
+This video takes place inside a completely normal, unedited room, such as a casual bedroom or living room setup. The lighting is completely natural and imperfect, using standard overhead room lights or daylight from a window without any professional studio gear.
+
+The creator is an ordinary, relatable individual wearing casual, everyday home clothes. Their appearance, language, and unscripted behavior naturally match the specified VIDEO LANGUAGE and target audience.
+
+The video must look like a completely spontaneous, raw video clip uploaded by a regular social media user with zero editing, zero filter, and absolutely no commercial intent.
+
+OUTPUT FORMAT (MANDATORY)
+
+Output exactly:
+
+[visual plan]:
+visual description
+
+[dialogue]:
+dialogue only
+
+Do not add any other sections.
+Do not add titles.
+Do not add explanations.
+Do not add notes.
+Do not add comments.
+
+VISUAL PLAN
+
+The visual plan must be written entirely in English.
+
+The dialogue must never appear inside the visual plan.
+
+The visual plan should describe only visible actions and camera behavior.
+
+Describe:
+
+* camera framing (imperfect handheld selfie-style, slightly off-center talking head)
+* camera movement (unsteady, natural smartphone shaking, casual minor adjustments mid-video)
+* environment (unarranged room background, everyday household objects visible, real lived-in atmosphere)
+* creator movement, completely natural facial expressions, casual blinking, and simple everyday hand gestures
+* product positioning (held loosely in front of the camera, sometimes slightly out of center)
+* product handling (turning it around casually, showing it to the lens in a non-professional manner)
+* transitions between shots (no cuts at all, a single continuous unedited raw smartphone recording)
+
+Do NOT describe:
+
+* emotions
+* viewer reactions
+* marketing intentions
+* product benefits
+* product claims
+
+The creator must remain the sole focal point in a single, continuous, unedited take.
+The framing must look completely accidental and raw, avoid professional composition.
+Use everyday, imperfect smartphone camera behavior with organic movement.
+
+The visual flow should follow:
+
+1. Creator looks at the smartphone screen, adjusts their grip on the phone slightly, and starts talking casually in a continuous selfie shot
+2. Creator raises the product into the frame with one hand, turning it around slowly to show the front and back casually
+3. Creator interacts with the product simply, tapping it or holding it up close to the camera lens for a brief moment
+4. Creator brings the product back near their face, pointing a finger casually downward toward the screen corner
+5. Creator finishes talking directly to the phone lens, keeping a relaxed, ordinary facial expression as the video rolls continuously
+
+DIALOGUE
+
+The dialogue must be written entirely in VIDEO LANGUAGE.
+
+The dialogue structure must strictly follow:
+
+1. Start directly without a hook, casually introducing the product like an everyday object they just happen to have in their hands.
+2. Share a very simple, honest observation about what they personally like about using it, using only basic vocabulary that a ten-year-old child would understand completely.
+3. Tell the viewer casually that if they want to check out how much it costs, the link is right down there on the screen.
+
+The creator must sound like a regular person talking to a friend through a quick, spontaneous video message.
+
+The tone should be:
+
+* completely casual
+* low-energy and relaxed
+* entirely unscripted
+* authentic
+
+Avoid:
+
+* any kind of marketing or sales buzzwords
+* technical terms, specifications, or product features
+* excited, fast-paced energetic speech
+* direct sales pressure or call-to-action urgency
