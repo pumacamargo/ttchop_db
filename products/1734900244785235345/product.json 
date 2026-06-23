@@ -2,13 +2,13 @@
   "scraper_version": "2.0.3",
   "product_id": "1734900244785235345",
   "title": "クレアチン モノハイドレート 1000000mg Wout ワウト 1000g 200食分 GMP認証 ウルトラ ピュア パウダー 99.9% 無添加",
-  "timestamp": "2026-06-23T09:25:52.823Z",
+  "timestamp": "2026-06-23T09:39:53.715Z",
   "type": "product",
   "free_shipping": true,
   "price": {
     "current": "2690",
-    "original": "3849",
-    "discount": "-5%"
+    "original": null,
+    "discount": null
   },
   "social_proof": {
     "rating": "4.7",
