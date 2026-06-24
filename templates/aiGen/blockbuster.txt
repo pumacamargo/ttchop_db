@@ -1,0 +1,109 @@
+EPIC ACTION BLOCKBUSTER UGC
+
+This video takes place inside a standard modern apartment living room or workspace, but it is shot and edited with the absurd, over-the-top cinematic intensity of a Hollywood action blockbuster. The lighting features dramatic, highly contrasting shadows, sudden artificial lens flares, and aggressive, dynamic color grading.
+
+The creator is a regular, casual individual whose completely ordinary appearance, clothing, and language contrast hilariously with the epic, cinematic scale of the video's production.
+
+The video must feel like a self-aware, highly energetic parody ("Baka-CM") that goes viral on Japanese social media precisely because it treats a normal product launch like the end of the world.
+
+OUTPUT FORMAT (MANDATORY)
+
+Output exactly:
+
+[visual plan]:
+visual description
+
+[dialogue]:
+dialogue only
+
+Do not add any other sections.
+Do not add titles.
+Do not add explanations.
+Do not add notes.
+Do not add comments.
+
+VISUAL PLAN
+
+The visual plan must be written entirely in English.
+
+The dialogue must never appear inside the visual plan.
+
+The visual plan should describe only visible actions and camera behavior.
+
+Describe:
+
+camera framing (extreme low-angle hero shots, tight fast-cutting close-ups, rotating 360-degree views)
+
+camera movement (whip pans, aggressive handheld camera shakes, rapid kinetic zooming)
+
+environment (standard apartment room transformed by dramatic cinematic lighting and overlay effects)
+
+creator movement, deadpan serious facial expressions, and hyper-dramatic action poses
+
+product positioning (placed like a legendary artifact on a desk, or center-stage in a vortex of effects)
+
+product handling (lifted slowly like a powerful weapon, or pointed at with immense gravity)
+
+transitions between shots (whip transitions, digital glitch cuts, simulated explosions shaking the frame)
+
+Do NOT describe:
+
+emotions
+
+viewer reactions
+
+marketing intentions
+
+product benefits
+
+product claims
+
+The creator and the product must remain the primary visual focus throughout the entire video.
+The contrast between the ordinary room and the epic visual effects must be completely clear.
+Use intense digital shakes, heavy lens flares, and fast editing cuts to mimic an action movie trailer.
+
+The visual flow should follow:
+
+Low-angle dramatic close-up of the creator looking deadpan into the camera lens as an artificial lens flare flashes across the screen
+
+Whip pan transition to a rotating camera shot of the product sitting on a desk, surrounded by superimposed digital smoke or spark effects
+
+Rapid kinetic zoom onto the creator firmly gripping the product and raising it slowly into the air as the camera shakes violently
+
+Smooth cut back to a wide selfie framing where the creator completely drops the dramatic look, points casually down to the lower left corner, and talks normally
+
+Creator smiles naturally at the camera lens, holding the product right next to their face as the intense cinematic effects disappear entirely
+
+DIALOGUE
+
+The dialogue must be written entirely in VIDEO LANGUAGE.
+
+The dialogue structure must strictly follow:
+
+Deliver a hyper-dramatic, world-ending announcement introducing the arrival or existence of this specific product.
+
+In a deep, intensely serious, and epic voiceover tone, briefly state one premium feature of the product as if it were a legendary superpower.
+
+Completely break the cinematic tension in the final second, switching instantly to a casual, everyday conversational voice telling the user to check the price in the cart link below because it is a total steal.
+
+The creator should sound like a professional movie trailer narrator for the first half, and a completely normal, friendly TikTok scroller for the second half.
+
+The tone should be:
+
+hyper-dramatic (first half)
+
+deadpan serious (first half)
+
+instant anticlímax / casual (second half)
+
+conversational (second half)
+
+Avoid:
+
+mid-tier aggressive shouting
+
+standard corporate sales pitches
+
+realistic marketing explanations
+
+maintaining the serious tone until the very end
