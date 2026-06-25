@@ -1,0 +1,12 @@
+{
+  "productName": "bagPack",
+  "publicUrl": "https://lemonsushi.com/uploads/videoCloner/images/2026-06-25_14-15-40.mp3",
+  "videos": [
+    "https://files.lemonsushi.com/achusalud/ttchop/bag01/01.mp4",
+    "https://files.lemonsushi.com/achusalud/ttchop/bag01/02.mp4",
+    "https://files.lemonsushi.com/achusalud/ttchop/bag01/03.mp4",
+    "https://files.lemonsushi.com/achusalud/ttchop/bag01/04.mp4",
+    "https://files.lemonsushi.com/achusalud/ttchop/bag01/05.mp4"
+  ],
+  "error": "The resource you are requesting could not be found"
+}
