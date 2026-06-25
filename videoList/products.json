@@ -1,0 +1,30 @@
+{
+  "bagPack": {
+    "videos": [
+      "https://files.lemonsushi.com/achusalud/ttchop/bag01/01.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/bag01/02.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/bag01/03.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/bag01/04.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/bag01/05.mp4"
+    ]
+  },
+  "umbrella_fan": {
+    "videos": [
+      "https://files.lemonsushi.com/achusalud/ttchop/umbrelaFan01/01.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/umbrelaFan01/02.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/umbrelaFan01/03.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/umbrelaFan01/04.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/umbrelaFan01/05.mp4"
+    ]
+  },
+  "creatine": {
+    "videos": [
+      "https://files.lemonsushi.com/achusalud/ttchop/creatine01/01.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/creatine01/02.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/creatine01/03.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/creatine01/04.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/creatine01/05.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/creatine01/06.mp4"
+    ]
+  }
+}
