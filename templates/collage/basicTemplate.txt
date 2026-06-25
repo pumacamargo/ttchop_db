@@ -1,0 +1,58 @@
+AUDIO DIALOGUE TEMPLATE: CREATOR-DRIVEN STRUCTURE
+
+This template defines the pacing, tone, dialogue style, and narrative flow exclusively for the audio script. The dialogue must feel like an authentic, realistic voice note or a native social media video, completely avoiding traditional commercial or overpolished sales language.
+
+---
+
+GENERAL DIALOGUE GUIDELINES
+
+- Conversational Tone: Speak like a real person sharing a genuine discovery with a friend. Use casual transitions.
+- No Feature Dumping: Avoid listing technical specifications flatly. Every feature must be tied to a practical benefit.
+- Pacing & Breath: Keep sentences relatively short. Allow room for natural pauses, conversational inflections, and emphasis.
+- Anti-Marketing: Avoid corporate clichés, pushy sales adjectives ("the absolute best", "revolutionary"), and exaggerated hype.
+
+---
+
+NARRATIVE STRUCTURE
+
+1. Hook
+- Objective: Capture attention within the first 3 seconds using a highly relatable, natural statement or a fascinating question.
+- Rule: Do not state the product name here. Focus entirely on an immediate, scroll-stopping feeling, habit, or situation.
+
+2. The Problem
+- Objective: Dive into the specific frustration or pain point the user is experiencing.
+- Rule: Make it feel personal. Use phrases that highlight everyday friction (e.g., "We've all been there...", "It honestly drives me crazy when...").
+
+3. The Discovery (The Solution)
+- Objective: Introduce the product naturally as the organic answer to the problem just mentioned.
+- Rule: Frame it as a personal find or an accidental discovery, not a sponsored pitch (e.g., "So I finally tried this...", "Then I found this setup...").
+
+4. Key Features & Benefits
+- Objective: Explain why it works by highlighting 1 or 2 main features, immediately translating them into real-world results.
+- Rule: Show, don't just tell. Connect the technical aspect directly to how it changes the daily experience (e.g., instead of "100% blackout material", use "it completely blocks out the heat so you stay freezing cold").
+
+5. What's Included / The Offer
+- Objective: Give clarity on exactly what the user gets or the immediate value pack they will receive.
+- Rule: Keep it snappy and concise. No complex breakdowns, just a quick visual/functional summary of the package.
+
+6. Call to Action (CTA)
+- Objective: Direct the viewer smoothly to the next step without sounding desperate for a sale.
+- Rule: Keep it casual, low-pressure, and conversational (e.g., "Check the link below if you want to grab one", "The link is right down here if you're curious").
+
+---
+
+OUTPUT FORMAT
+
+When generating the final script under this template, output the dialogue using the following clean layout (optimized for text-to-speech, AI voice models, or prompting):
+
+[hook]: (Insert hook dialogue here...)
+
+[problem]: (Insert problem dialogue here...)
+
+[discovery]: (Insert discovery dialogue here...)
+
+[features]: (Insert features dialogue here...)
+
+[included]: (Insert what's included dialogue here...)
+
+[cta]: (Insert call to action dialogue here...)
