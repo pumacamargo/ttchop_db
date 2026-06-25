@@ -1,5 +1,6 @@
 {
   "bagPack": {
+    "productId":"1734643406630651445",
     "videos": [
       "https://files.lemonsushi.com/achusalud/ttchop/bag01/01.mp4",
       "https://files.lemonsushi.com/achusalud/ttchop/bag01/02.mp4",
@@ -9,6 +10,7 @@
     ]
   },
   "umbrella_fan": {
+    "productId":"1734439248326395431",
     "videos": [
       "https://files.lemonsushi.com/achusalud/ttchop/umbrelaFan01/01.mp4",
       "https://files.lemonsushi.com/achusalud/ttchop/umbrelaFan01/02.mp4",
@@ -18,6 +20,7 @@
     ]
   },
   "creatine": {
+    "productId":"1734439248326395431",
     "videos": [
       "https://files.lemonsushi.com/achusalud/ttchop/creatine01/01.mp4",
       "https://files.lemonsushi.com/achusalud/ttchop/creatine01/02.mp4",
