@@ -2,338 +2,240 @@
 
 ## PURPOSE
 
-Generate a **hyperrealistic AI UGC video** designed to maximize watch time, rewatches, comments, and product interest through an impossible cinematic adventure.
+Generate a **15-second hyperrealistic AI UGC video** designed to maximize retention, rewatches, comments, and product interest.
 
-The video should combine:
+The creator is always the main character.
 
-* A powerful curiosity hook
-* Authentic creator-driven product storytelling
-* Continuous blockbuster-scale action
-* Hidden easter eggs
-* A final observation challenge that forces viewers to rewatch
+The product naturally supports the story but never becomes the primary focus.
 
-The **creator is always the main character**.
+The video should feel like a real creator accidentally running through multiple blockbuster movies in one continuous adventure.
 
-The **product supports the story** but never replaces the creator as the focus.
+---
 
-The finished video should feel like a real person accidentally running through multiple Hollywood movies during a single continuous take.
+# VIDEO LENGTH
+
+**15 seconds total**
+
+The video is divided into **three continuous cinematic scenes of approximately five seconds each.**
+
+Every second should contain meaningful visual action.
+
+No dead time.
+
+No introductions.
 
 ---
 
 # VISUAL STYLE
 
-The entire video must be **hyperrealistic**, indistinguishable from real-life footage captured with a professional cinema camera.
+The entire video must be completely **hyperrealistic**.
 
-Every environment, character, object, explosion, creature, and visual effect should appear physically believable with realistic lighting, materials, reflections, shadows, motion blur, and depth of field.
+It should be indistinguishable from footage captured with a professional cinema camera.
 
-The goal is for viewers to initially question whether the footage is real.
+Everything should look physically believable:
 
-Avoid:
+* realistic lighting
+* realistic explosions
+* cinematic motion blur
+* believable creatures
+* authentic environments
+* natural facial expressions
+* realistic physics
 
-* CGI-looking visuals
-* AI artifacts
-* Cartoon styles
-* Anime styles
-* Stylized rendering
-* Low-detail environments
-* Plastic-looking skin
-* Unrealistic physics
-* Exaggerated visual effects
-
-The creator should look like a real person filmed inside a major Hollywood production.
-
-Every movie world should maintain its own visual identity while preserving the same hyperrealistic quality.
-
-Examples include:
-
-* Photorealistic medieval kingdoms
-* Lifelike dinosaurs
-* Cinematic alien invasions
-* Realistic futuristic cities
-* Believable giant robots
-* Physically accurate explosions
-* Dense smoke and atmospheric effects
-* Authentic crowds
-* Realistic environmental destruction
-
-The camera should resemble footage captured with a modern cinema camera featuring:
-
-* Natural handheld movement
-* Realistic lens distortion
-* Cinematic depth of field
-* Physically accurate lighting
-* Natural motion blur
-* Dynamic exposure adaptation
-* Realistic focus breathing
-
-Every frame should look like live-action footage rather than AI-generated imagery.
+The viewer should initially question whether the footage is real.
 
 ---
 
 # VIDEO STRUCTURE
 
-## 1. HOOK (0–3 seconds)
+## SCENE 1 (0–5s)
 
-The creator immediately says:
+### The Hook
 
-> **"Only 1% of people watching this video will answer the last question correctly."**
+The video begins immediately.
 
-The creator immediately starts running.
+No greeting.
 
-There should be no introduction.
+No introduction.
 
-The action begins instantly.
+No explanation.
 
----
+The creator is already running through an epic action sequence.
 
-## 2. PRODUCT STORY
+Examples:
 
-While continuously moving, the creator naturally talks about the product.
+* escaping dinosaurs
+* medieval battlefield
+* alien invasion
+* giant robots
+* collapsing city
+* zombie outbreak
+* massive animal stampede
+* pirate battle
+* fantasy war
+* space battle
 
-The creator should sound like a real person sharing a personal experience.
+During the run, the creator says only one short sentence:
 
-The product conversation should focus on:
+> "Only 1% of people watching this video will answer the last question correctly."
 
-* One problem
-* One discovery
-* One benefit
-* One genuine opinion
+The creator never stops running.
 
-Never sound like a commercial.
-
-Avoid:
-
-* Corporate language
-* Feature dumping
-* Specifications
-* Exaggerated claims
-* Sales language
-
-The creator never stops moving.
+The action continues around them.
 
 ---
 
-## 3. BLOCKBUSTER CHAOS
+## SCENE 2 (5–10s)
 
-The creator is running through an enormous movie studio.
+### Product Integration
 
-Each doorway, hallway, room, or soundstage instantly transforms into another blockbuster movie.
+The creator transitions directly into another blockbuster scene.
 
-Every transition is seamless.
+The new environment should be completely different from the first.
 
-No cuts.
+While continuing to run, the creator naturally introduces the product.
 
-No teleporting.
+Example dialogue:
 
-No pauses.
+> "Good thing I brought my ____."
 
-Every world is already at its most intense action sequence.
+or
 
-Examples include:
+> "This is exactly why I always carry ____."
 
-* Dinosaur attacks
-* Medieval fantasy wars
-* Giant castles under siege
-* Alien invasions
-* Zombie outbreaks
-* Pirate naval battles
-* Ninja battles
-* Giant robot attacks
-* Magical kingdoms
-* Superhero battles
-* Spy missions
-* Collapsing temples
-* Volcanic eruptions
-* Giant monsters
-* Space battles
-* Futuristic cyberpunk cities
-* Underwater civilizations
-* Frozen kingdoms
-* Post-apocalyptic wastelands
-* Toy worlds where thousands of toys come alive
-* Massive stampedes of elephants, rhinos, buffalo, horses, and other animals
-* High-speed street racing
-* Military battlefields
-* Haunted mansions
-* Jungle adventures
-* Treasure hunts
-* Ancient civilizations
-* Dragons attacking cities
+or
 
-The creator naturally becomes part of every scene without changing identity.
+> "I would've been in trouble without ____."
 
-The creator is never replaced by movie characters.
+The dialogue should feel completely natural.
 
-The creator simply runs through their worlds while continuing the conversation.
+The product should briefly appear on camera.
+
+The creator continues moving while talking.
 
 ---
 
-# CHAOS DESIGN
+## SCENE 3 (10–15s)
 
-Every scene should become bigger than the previous one.
+### Final Challenge
 
-The action should continuously escalate.
+The creator enters one final, even bigger action scene.
 
-There should never be downtime.
+This should be the most visually spectacular moment.
 
-Every few seconds something completely unexpected should happen.
+The creator finishes with a question based entirely on something that actually appeared earlier in the video.
 
-The creator should barely escape one disaster before entering another.
+The answer must be clearly present within the video.
 
-The pacing should feel relentless.
+It should simply be difficult to notice on the first viewing.
 
-Every rewatch should reveal something new.
+Examples:
+
+* "How many dinosaurs actually appeared?"
+* "What color was the dragon?"
+* "Which animal crossed behind me?"
+* "How many UFOs flew overhead?"
+* "What object disappeared?"
+* "Which character appeared twice?"
+
+The question should encourage viewers to immediately replay the video.
+
+---
+
+# BLOCKBUSTER WORLDS
+
+Each scene should feel like a completely different blockbuster movie.
+
+Possible worlds include:
+
+* Medieval fantasy war
+* Alien invasion
+* Dinosaur attack
+* Giant robots
+* Cyberpunk city
+* Zombie apocalypse
+* Pirate battle
+* Underwater kingdom
+* Frozen kingdom
+* Jungle adventure
+* Haunted castle
+* Giant monster attack
+* Space battle
+* Toy world
+* Formula racing
+* Street racing
+* Ancient civilization
+* Magical kingdom
+* Post-apocalyptic wasteland
 
 ---
 
 # EASTER EGGS
 
-Every video must contain numerous hidden details that reward multiple viewings.
+Hide several subtle visual details throughout the video.
 
 Examples include:
 
-* Hidden characters
-* Recurring background people
-* Objects appearing multiple times
-* Impossible continuity changes
-* Hidden animals
-* Secret symbols
-* Visual jokes
-* Disappearing objects
-* Duplicated people
-* Clothing changing color
-* Hidden movie references
-* Background mini-stories
-* Objects changing locations
-* Tiny blink-and-you-miss-it events
-* Characters appearing in the wrong movie
-* Background battles with their own stories
+* hidden animals
+* duplicated characters
+* recurring props
+* changing clothing
+* hidden symbols
+* background jokes
+* objects moving
+* impossible continuity changes
 
-Some easter eggs should appear for less than one second.
+These should support the final question.
 
-Most viewers should miss them on the first viewing.
+The answer must always be visible somewhere in the video.
+
+Never ask a question whose answer cannot be determined from the footage.
 
 ---
 
 # PRODUCT INTEGRATION
 
-The product should always feel naturally integrated into the creator's adventure.
+The product should never interrupt the story.
 
-Examples include:
+It should feel like a natural part of the creator's adventure.
 
-* Held while running
-* Briefly used
-* Casually shown to the camera
-* Mentioned while escaping danger
-* Remaining visible during parts of the journey
+The adventure remains the main attraction.
 
-The product should never interrupt the pacing.
-
-The adventure always comes first.
+The product simply becomes part of the creator's survival or journey.
 
 ---
 
 # CAMERA STYLE
 
-The camera should feel like another person running alongside the creator.
+The video should feel like a continuous handheld shot filmed by another person running beside the creator.
 
 Use:
 
-* Continuous one-take feeling
-* Handheld movement
-* Realistic operator imperfections
-* Dynamic framing
-* Believable camera shake
-* Natural reframing
-* Realistic autofocus behavior
-* Occasional foreground obstructions
-* Cinematic composition
+* realistic handheld movement
+* cinematic framing
+* dynamic camera motion
+* natural focus changes
+* realistic lens behavior
+* believable camera shake
 
-The creator should remain visible during most of the video.
-
----
-
-# CREATOR PERFORMANCE
-
-The creator behaves like a normal person trapped inside an impossible situation.
-
-Natural reactions only.
-
-No exaggerated screaming.
-
-No cartoon acting.
-
-No influencer overreactions.
-
-The creator continues talking about the product surprisingly calmly despite the insanity happening around them.
-
-This contrast makes the video even more entertaining.
+The creator should remain visible during almost the entire video.
 
 ---
 
 # DIALOGUE STYLE
 
-Dialogue should feel conversational.
+Dialogue should be extremely concise.
 
-The creator sounds like they are talking to a friend.
+Keep each spoken line under one sentence.
 
-Avoid:
+The visuals should tell most of the story.
 
-* Sales language
-* Scripted dialogue
-* Buzzwords
-* Marketing phrases
+The creator sounds calm, authentic, and conversational.
 
-The product explanation should naturally blend into the nonstop adventure.
-
----
-
-# REALISM
-
-Although the situations are impossible, everything should obey realistic cinematic physics.
-
-Creatures move believably.
-
-Explosions feel physically accurate.
-
-Vehicles have realistic momentum.
-
-Crowds react naturally.
-
-Lighting remains consistent.
-
-Every environment should feel like it truly exists.
-
-The impossible should feel believable.
-
----
-
-# FINAL QUESTION
-
-The final line challenges viewers to answer a difficult observation question based entirely on hidden details from the video.
-
-The answer should require watching the video multiple times.
-
-Examples:
-
-* "How many dragons actually appeared?"
-* "Which character crossed behind me twice?"
-* "What color was the alien carrying the suitcase?"
-* "Which toy appeared in three different movie worlds?"
-* "How many explosions happened before the pirate ship?"
-* "Which animal appeared after the UFO landed?"
-* "What object changed color during the medieval battle?"
-
-The question must **never** be about the product.
-
-It must only relate to hidden details, background events, continuity changes, or easter eggs.
+Never sound like an advertisement.
 
 ---
 
 # FINAL GOAL
 
-Create a **hyperrealistic, creator-driven AI UGC video** that feels like a genuine social media post while delivering an uninterrupted blockbuster adventure filled with escalating action, seamless movie-world transitions, authentic product storytelling, dozens of hidden easter eggs, and a nearly impossible final observation challenge that encourages viewers to replay the video multiple times before commenting.
-
-The viewer should constantly think:
-
-> **"Wait... I definitely missed something. I have to watch that again."**
+Create a **15-second hyperrealistic AI UGC video** where viewers stay for the nonstop blockbuster action, become curious about the product naturally, and immediately replay the video to answer the final observation question. Every replay should reveal details they missed the first time.
