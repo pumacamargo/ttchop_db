@@ -1,0 +1,194 @@
+GUILT (Protective Instinct) AUDIO DIALOGUE TEMPLATE
+
+This template is designed to activate the viewer's protective instinct by making them realize a real risk or long-term consequence they may have overlooked. The emotion is not fear for the sake of fear—it is responsibility. The script should make the viewer think:
+
+"I didn't know this... I should probably fix it."
+
+The guilt must always be based on truthful, verifiable information. Never invent health risks, exaggerate consequences, or make unsupported medical claims.
+
+---
+
+GENERAL DIALOGUE GUIDELINES
+
+- Conversational and natural. Speak like you're sharing an important discovery with a friend.
+- Sound concerned, not judgmental.
+- The goal is to raise awareness first, then introduce the product as the responsible solution.
+- Never shame the viewer or make them feel like a bad parent, partner, or person.
+- Every statement about risks or health must be truthful and supported by reliable information.
+- Avoid corporate language, exaggerated hype, or obvious sales talk.
+
+---
+
+NARRATIVE STRUCTURE
+
+1. Awareness Hook
+
+Objective:
+Capture attention within the first few seconds by revealing a surprising fact or asking a question that exposes a hidden risk.
+
+Rules:
+- Do not mention the product yet.
+- Focus entirely on the overlooked danger or habit.
+- Make the viewer immediately question their current behavior.
+
+Examples:
+"Did you know this could actually be harming your family?"
+"I wish someone had told me this sooner."
+"Most people have no idea they're doing this every single day."
+
+---
+
+2. The Hidden Risk
+
+Objective:
+Explain the overlooked problem in simple, relatable language.
+
+Rules:
+- Only mention risks that are truthful and supported by evidence.
+- Explain why the common habit may not be the best choice.
+- Make it personal and easy to understand.
+
+Examples:
+"I had no idea that every time you cut food on certain plastic cutting boards, tiny plastic particles can wear off over time."
+"I never realized carrying a heavy bag on one shoulder all day can put uneven strain on your back."
+
+The viewer should think:
+"Wait... I do that."
+
+---
+
+3. Emotional Realization
+
+Objective:
+Create a feeling of personal responsibility without attacking the viewer.
+
+Rules:
+- Focus on protecting yourself or the people you care about.
+- Show the creator's own emotional reaction.
+- Avoid manipulation or guilt-tripping.
+
+Examples:
+"When I found out, I honestly felt guilty."
+"It made me think about what my family is exposed to every day."
+"It wasn't worth saving a few dollars anymore."
+
+The emotion should be:
+"I should have known."
+
+Not:
+"I'm a terrible parent."
+
+---
+
+4. Discovery (The Responsible Solution)
+
+Objective:
+Introduce the product naturally as the better alternative.
+
+Rules:
+- Present it as something you discovered while looking for a safer or smarter option.
+- Keep the tone personal and authentic.
+
+Examples:
+"So I started looking for a better option..."
+"That's when I found this..."
+"I decided to switch to this instead."
+
+---
+
+5. Features & Benefits
+
+Objective:
+Explain why the product solves the original concern.
+
+Rules:
+- Every feature must immediately translate into a real-life benefit.
+- Focus on peace of mind instead of technical specifications.
+- Show how it improves everyday life.
+
+Bad:
+"It's made from acacia wood."
+
+Better:
+"Since it's made from natural acacia wood, I don't have to worry about cutting directly on plastic every day."
+
+---
+
+6. What's Included / The Offer
+
+Objective:
+Clearly explain what the buyer receives and why now is a good time to buy.
+
+Rules:
+- Mention what is included.
+- Mention the original price.
+- Mention the current discounted price.
+- Keep it short and easy to visualize.
+
+Example:
+"It normally costs $59, but right now it's only $34, and it comes with..."
+
+---
+
+7. Protective Call to Action (CTA)
+
+Objective:
+Encourage action by reinforcing responsibility rather than creating pressure.
+
+Rules:
+- Keep it casual and conversational.
+- If they can't buy today, encourage them to save the video.
+- Invite comments naturally.
+
+Examples:
+"If you can't grab one today, at least save this video so you remember later."
+"The link is right below if you want to check it out."
+"And if you end up getting one, let me know in the comments."
+
+---
+
+PSYCHOLOGICAL TRIGGERS
+
+The script should naturally activate one or more of these emotions:
+
+- Protecting loved ones
+- Being a responsible parent
+- Being a caring partner
+- Protecting your own health
+- Avoiding future regret
+- Preventing problems before they happen
+- Peace of mind
+- Making a smarter long-term decision
+
+The viewer should finish the video thinking:
+
+"I didn't know that."
+
+followed by
+
+"I should probably do something about it."
+
+---
+
+OUTPUT FORMAT
+
+[hook]:
+(Attention-grabbing question or statement that reveals a hidden truth.)
+
+[risk]:
+(Explain the overlooked problem or habit using truthful information.)
+
+[realization]:
+(The creator realizes the risk and feels responsible for making a change.)
+
+[discovery]:
+(Introduce the product as the better alternative.)
+
+[features]:
+(Show 1–3 key features and immediately connect each one to a real-life benefit or peace of mind.)
+
+[offer]:
+(Mention what's included, original price, current discounted price, and any limited-time offer.)
+
+[cta]:
+(Encourage viewers to check the link. If they can't buy now, suggest saving the video for later. Invite them to leave a comment if they purchased it.)
