@@ -2,13 +2,13 @@
 
 ## PURPOSE
 
-Generate a **15-second hyperrealistic AI UGC video** designed to maximize retention, rewatches, comments, and product interest.
+Generate a **15-second hyperrealistic AI UGC video** designed to maximize retention through nonstop blockbuster-level action, constant visual stimulation, and seamless product integration.
 
 The creator is always the main character.
 
-The product naturally supports the story but never becomes the primary focus.
+The product supports the adventure naturally but is never the main focus.
 
-The video should feel like a real creator accidentally running through multiple blockbuster movies in one continuous adventure.
+The video should feel like a real creator accidentally traveling through multiple blockbuster movies in one continuous cinematic adventure.
 
 ---
 
@@ -16,7 +16,9 @@ The video should feel like a real creator accidentally running through multiple 
 
 **15 seconds total**
 
-The video is divided into **three continuous cinematic scenes of approximately five seconds each.**
+The video is divided into **three distinct cinematic sets**, each lasting approximately **5 seconds**.
+
+Each set should feel like a completely different blockbuster movie.
 
 Every second should contain meaningful visual action.
 
@@ -24,23 +26,28 @@ No dead time.
 
 No introductions.
 
+No slow moments.
+
 ---
 
 # VISUAL STYLE
 
 The entire video must be completely **hyperrealistic**.
 
-It should be indistinguishable from footage captured with a professional cinema camera.
+It should be indistinguishable from footage captured using a professional cinema camera.
 
 Everything should look physically believable:
 
-* realistic lighting
-* realistic explosions
-* cinematic motion blur
-* believable creatures
-* authentic environments
-* natural facial expressions
-* realistic physics
+- realistic lighting
+- realistic explosions
+- cinematic motion blur
+- believable creatures
+- authentic environments
+- natural facial expressions
+- realistic physics
+- cinematic depth of field
+- realistic camera exposure
+- natural color grading
 
 The viewer should initially question whether the footage is real.
 
@@ -48,148 +55,207 @@ The viewer should initially question whether the footage is real.
 
 # VIDEO STRUCTURE
 
-## SCENE 1 (0–5s)
+## SET 1 (0–5s)
 
-### The Hook
+### Immediate Chaos
 
-The video begins immediately.
+The video begins immediately in the middle of an epic action sequence.
 
 No greeting.
 
-No introduction.
+No explanation.
+
+No setup.
+
+The creator is already running, escaping, reacting, or surviving while the world around them falls apart.
+
+Possible scenarios include:
+
+- dinosaur attack
+- alien invasion
+- medieval battle
+- zombie outbreak
+- giant robots
+- collapsing city
+- pirate battle
+- giant monster attack
+- magical kingdom under siege
+- space warfare
+- jungle adventure
+- cyberpunk city
+- frozen kingdom
+- underwater kingdom
+
+The creator says little or nothing.
+
+The visuals are the hook.
+
+Every second should introduce new visual elements that reward continued watching.
+
+---
+
+## SET 2 (5–10s)
+
+### Natural Product Usage
+
+The environment suddenly transitions into a completely different blockbuster world.
+
+The creator never stops moving.
+
+Without interrupting the action, the creator naturally uses the product exactly as they normally would.
+
+The product never pauses the story.
+
+The creator may casually say only one short sentence, such as:
+
+"Good thing I brought my [Product Name]."
+
+"My [Product Name] always saves me."
+
+"I never leave home without this."
+
+The dialogue should sound effortless and authentic.
+
+The product briefly appears on camera.
+
+The creator immediately continues the adventure.
+
+The product should never feel like a commercial.
+
+---
+
+## SET 3 (10–15s)
+
+### Bigger Finale
+
+The creator enters one final blockbuster environment that is even more spectacular than the previous two.
+
+The action reaches its highest intensity.
+
+Everything around the creator becomes even more chaotic.
+
+Examples include:
+
+- massive explosions
+- dragons flying overhead
+- giant creatures
+- collapsing skyscrapers
+- giant robots fighting
+- space fleets
+- impossible destruction
+- fantasy armies
+- meteor showers
+- enormous waves
+- volcanic eruptions
+
+The creator continues surviving while naturally carrying or using the product.
+
+The video ends in the middle of the action.
 
 No explanation.
 
-The creator is already running through an epic action sequence.
+No recap.
 
-Examples:
+No ending screen.
 
-* escaping dinosaurs
-* medieval battlefield
-* alien invasion
-* giant robots
-* collapsing city
-* zombie outbreak
-* massive animal stampede
-* pirate battle
-* fantasy war
-* space battle
-
-During the run, the creator says only one short sentence:
-
-> "Only 1% of people watching this video will answer the last question correctly."
-
-The creator never stops running.
-
-The action continues around them.
-
----
-
-## SCENE 2 (5–10s)
-
-### Product Integration
-
-The creator transitions directly into another blockbuster scene.
-
-The new environment should be completely different from the first.
-
-While continuing to run, the creator naturally introduces the product.
-
-Example dialogue:
-
-> "Good thing I brought my ____."
-
-or
-
-> "This is exactly why I always carry ____."
-
-or
-
-> "I would've been in trouble without ____."
-
-The dialogue should feel completely natural.
-
-The product should briefly appear on camera.
-
-The creator continues moving while talking.
-
----
-
-## SCENE 3 (10–15s)
-
-### Final Challenge
-
-The creator enters one final, even bigger action scene.
-
-This should be the most visually spectacular moment.
-
-The creator finishes with a question based entirely on something that actually appeared earlier in the video.
-
-The answer must be clearly present within the video.
-
-It should simply be difficult to notice on the first viewing.
-
-Examples:
-
-* "How many dinosaurs actually appeared?"
-* "What color was the dragon?"
-* "Which animal crossed behind me?"
-* "How many UFOs flew overhead?"
-* "What object disappeared?"
-* "Which character appeared twice?"
-
-The question should encourage viewers to immediately replay the video.
+The adventure should feel like it continues after the video cuts.
 
 ---
 
 # BLOCKBUSTER WORLDS
 
-Each scene should feel like a completely different blockbuster movie.
+Each of the three sets should use completely different cinematic themes.
 
 Possible worlds include:
 
-* Medieval fantasy war
-* Alien invasion
-* Dinosaur attack
-* Giant robots
-* Cyberpunk city
-* Zombie apocalypse
-* Pirate battle
-* Underwater kingdom
-* Frozen kingdom
-* Jungle adventure
-* Haunted castle
-* Giant monster attack
-* Space battle
-* Toy world
-* Formula racing
-* Street racing
-* Ancient civilization
-* Magical kingdom
-* Post-apocalyptic wasteland
+- Medieval fantasy
+- Alien invasion
+- Dinosaur attack
+- Giant robots
+- Cyberpunk city
+- Zombie apocalypse
+- Pirate battle
+- Underwater kingdom
+- Frozen kingdom
+- Jungle adventure
+- Haunted castle
+- Giant monster attack
+- Space battle
+- Ancient civilization
+- Magical kingdom
+- Post-apocalyptic wasteland
+- Formula racing
+- Street racing
+
+Avoid repeating similar environments.
+
+Every transition should feel surprising.
 
 ---
 
-# EASTER EGGS
+# VISUAL DENSITY
 
-Hide several subtle visual details throughout the video.
+Every scene should be packed with visual information.
+
+The world should feel alive.
+
+Include background action such as:
+
+- creatures
+- vehicles
+- explosions
+- flying debris
+- background characters
+- weather effects
+- collapsing structures
+- moving props
+- dynamic environmental destruction
+- cinematic particle effects
+
+There should always be something happening somewhere on screen.
+
+The viewer should discover new details every time they watch.
+
+---
+
+# RECURRING EASTER EGG (MANDATORY)
+
+Every video must contain the same hidden recurring character:
+
+**A small white Pomeranian puppy.**
+
+This hidden dog becomes the signature easter egg of the entire series.
+
+The dog should never interact with the creator or the product.
+
+Instead, it should naturally exist somewhere inside the environment.
 
 Examples include:
 
-* hidden animals
-* duplicated characters
-* recurring props
-* changing clothing
-* hidden symbols
-* background jokes
-* objects moving
-* impossible continuity changes
+- hiding behind debris
+- running through the background
+- peeking behind a vehicle
+- standing on a rooftop
+- riding inside another vehicle
+- floating past in space
+- wearing medieval armor
+- hiding inside a crowd
+- partially visible behind an explosion
+- watching from a window
 
-These should support the final question.
+The appearance should be subtle enough that many viewers miss it during the first viewing.
 
-The answer must always be visible somewhere in the video.
+The Pomeranian must appear in every video.
 
-Never ask a question whose answer cannot be determined from the footage.
+It may briefly appear in Set 1 or Set 2.
+
+However, **its most important appearance must always occur during Set 3**, where it should be cleverly hidden within the biggest and most chaotic action sequence.
+
+The dog should remain physically believable while naturally adapting to every world.
+
+If there is only one easter egg in the entire video, it must always be the hidden white Pomeranian.
+
+This recurring hidden character is one of the core identities of the series and should never be omitted.
 
 ---
 
@@ -197,26 +263,33 @@ Never ask a question whose answer cannot be determined from the footage.
 
 The product should never interrupt the story.
 
-It should feel like a natural part of the creator's adventure.
+It should simply be something the creator naturally uses during the adventure.
 
-The adventure remains the main attraction.
+The creator never explains the product.
 
-The product simply becomes part of the creator's survival or journey.
+Never lists features.
+
+Never gives a sales pitch.
+
+Never sounds like an advertisement.
+
+The product simply becomes part of the creator's survival, comfort, or routine.
 
 ---
 
 # CAMERA STYLE
 
-The video should feel like a continuous handheld shot filmed by another person running beside the creator.
+The video should feel like one continuous handheld shot filmed by another person running alongside the creator.
 
 Use:
 
-* realistic handheld movement
-* cinematic framing
-* dynamic camera motion
-* natural focus changes
-* realistic lens behavior
-* believable camera shake
+- realistic handheld movement
+- cinematic framing
+- dynamic camera motion
+- natural focus changes
+- realistic lens behavior
+- believable camera shake
+- cinematic motion blur
 
 The creator should remain visible during almost the entire video.
 
@@ -224,13 +297,11 @@ The creator should remain visible during almost the entire video.
 
 # DIALOGUE STYLE
 
-Dialogue should be extremely concise.
+Dialogue should be extremely minimal.
 
-Keep each spoken line under one sentence.
+The visuals should tell almost the entire story.
 
-The visuals should tell most of the story.
-
-The creator sounds calm, authentic, and conversational.
+The creator sounds calm, authentic, and conversational despite the chaos happening around them.
 
 Never sound like an advertisement.
 
@@ -238,4 +309,10 @@ Never sound like an advertisement.
 
 # FINAL GOAL
 
-Create a **15-second hyperrealistic AI UGC video** where viewers stay for the nonstop blockbuster action, become curious about the product naturally, and immediately replay the video to answer the final observation question. Every replay should reveal details they missed the first time.
+Create a **15-second hyperrealistic AI UGC video** that overwhelms viewers with nonstop blockbuster-level action while seamlessly integrating the product into the creator's adventure.
+
+The primary retention hook is the constant visual spectacle.
+
+The product should feel like a natural part of the creator's journey rather than the focus of the video.
+
+The recurring hidden white Pomeranian becomes the signature easter egg of the series, encouraging viewers to rewatch every video to find where it is hidden.
