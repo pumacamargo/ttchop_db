@@ -1,3 +1,4 @@
+```text
 # AI UGC BLOCKBUSTER CHAOS TEMPLATE
 
 ## PURPOSE
@@ -220,40 +221,38 @@ The viewer should discover new details every time they watch.
 
 # RECURRING EASTER EGG (MANDATORY)
 
-Every video must contain the same hidden recurring character:
+Every video must contain the same recurring easter egg: **a small white Pomeranian puppy.**
 
-**A small white Pomeranian puppy.**
+The Pomeranian is never the subject of the shot and must never become the visual focus of any scene.
 
-This hidden dog becomes the signature easter egg of the entire series.
+The creator, the action, and the product must always remain the primary subjects.
 
-The dog should never interact with the creator or the product.
+The Pomeranian must always remain a subtle background detail that attentive viewers may discover while rewatching.
 
-Instead, it should naturally exist somewhere inside the environment.
+It must never appear in the center of the frame, never appear in the foreground, and never occupy a prominent position in the composition.
+
+It should remain very small (less than approximately 2% of the visible frame), positioned near the edges of the frame or deep in the background, and be partially obscured by the environment whenever possible.
+
+The camera must never intentionally frame, follow, reveal, zoom toward, or focus on the dog.
+
+The Pomeranian must never interact with the creator or the product and must never influence the story in any way.
+
+It may briefly appear during Set 1 or Set 2.
+
+However, its primary appearance must always occur during Set 3, cleverly hidden somewhere inside the largest, busiest, and most chaotic environment.
 
 Examples include:
 
-- hiding behind debris
-- running through the background
+- partially hidden behind rubble
 - peeking behind a vehicle
-- standing on a rooftop
-- riding inside another vehicle
-- floating past in space
-- wearing medieval armor
-- hiding inside a crowd
-- partially visible behind an explosion
-- watching from a window
+- standing on a distant rooftop
+- blending into a crowd
+- hiding inside a window
+- barely visible behind an explosion
+- watching from a distant balcony
+- hidden among background characters
 
-The appearance should be subtle enough that many viewers miss it during the first viewing.
-
-The Pomeranian must appear in every video.
-
-It may briefly appear in Set 1 or Set 2.
-
-However, **its most important appearance must always occur during Set 3**, where it should be cleverly hidden within the biggest and most chaotic action sequence.
-
-The dog should remain physically believable while naturally adapting to every world.
-
-If there is only one easter egg in the entire video, it must always be the hidden white Pomeranian.
+Finding the hidden Pomeranian should feel like discovering a subtle detail in a blockbuster movie rather than something intentionally shown by the camera.
 
 This recurring hidden character is one of the core identities of the series and should never be omitted.
 
@@ -293,6 +292,8 @@ Use:
 
 The creator should remain visible during almost the entire video.
 
+The camera should always prioritize the creator and the action. It should never intentionally compose a shot to highlight the hidden Pomeranian.
+
 ---
 
 # DIALOGUE STYLE
@@ -315,4 +316,5 @@ The primary retention hook is the constant visual spectacle.
 
 The product should feel like a natural part of the creator's journey rather than the focus of the video.
 
-The recurring hidden white Pomeranian becomes the signature easter egg of the series, encouraging viewers to rewatch every video to find where it is hidden.
+The recurring hidden white Pomeranian should remain a subtle background easter egg that viewers naturally discover after multiple rewatches, never becoming the focus of the scene.
+```
