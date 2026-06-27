@@ -1,0 +1,172 @@
+# AI GRAPHIC OVERLAY TEMPLATE
+
+## PURPOSE
+
+Generate a high-end promotional graphic overlay that looks as if it was created by an experienced advertising graphic designer.
+
+The overlay will later be composited on top of a video.
+
+Its purpose is to immediately attract attention while remaining clean, readable, and visually exciting.
+
+The design should feel similar to premium Japanese TV commercials, supermarket advertisements, variety shows, and promotional posters where typography itself becomes part of the visual experience.
+
+---
+
+# TRANSPARENT BACKGROUND
+
+The overlay must be generated over a **solid chroma green (#00FF00)** background.
+
+Everything except the graphic elements should remain pure chroma green.
+
+Do not add textures, gradients, shadows, lighting, or visual effects to the green background.
+
+The green background should be perfectly flat to allow easy chroma key removal.
+
+---
+
+# GRAPHIC QUALITY
+
+The overlay should look like it was created by a professional graphic designer.
+
+Never generate plain text.
+
+The typography itself should become a graphic element.
+
+The result should feel expensive, polished, and production-ready.
+
+Every element should have professional finishing.
+
+---
+
+# TYPOGRAPHY STYLE
+
+The main text must immediately become the visual focus.
+
+The text should use bold, premium advertising typography.
+
+Apply multiple professional design techniques, including when appropriate:
+
+- custom letter deformation
+- perspective distortion
+- slight curvature
+- dynamic scaling
+- thick outlines
+- multiple outlines
+- 3D extrusion
+- bevel effects
+- realistic highlights
+- glossy finish
+- soft reflections
+- drop shadows
+- ambient shadows
+- depth effects
+- color gradients
+- metallic effects
+- inner glow
+- outer glow
+- motion streaks
+- speed lines
+- subtle lighting effects
+
+The text should feel handcrafted rather than generated.
+
+Avoid simple flat typography.
+
+---
+
+# COLOR DESIGN
+
+Choose colors with extremely high visual contrast.
+
+The typography should immediately stand out.
+
+Use combinations such as:
+
+- red + yellow
+- orange + gold
+- white + red
+- white + blue
+- yellow + black
+- gold + red
+
+Accent colors should create excitement while remaining easy to read.
+
+Never use low-contrast combinations.
+
+---
+
+# VISUAL HIERARCHY
+
+The overlay should clearly separate information into different importance levels.
+
+The most important message should dominate the composition.
+
+Secondary information should support the main title without competing with it.
+
+Every element should naturally guide the viewer's eye toward the primary headline.
+
+---
+
+# COMPOSITION
+
+Design the overlay as a complete graphic composition.
+
+Do not simply center text.
+
+Instead, arrange multiple graphic elements together such as:
+
+- ribbons
+- banners
+- badges
+- bursts
+- stars
+- arrows
+- circles
+- frames
+- labels
+- decorative shapes
+- speed lines
+- sparkles
+- subtle particle accents
+
+These elements should enhance the typography without making the design feel cluttered.
+
+---
+
+# DEPTH
+
+The overlay should have visible depth.
+
+Use layered elements.
+
+Some elements may overlap others.
+
+Shadows and highlights should create a convincing sense of dimension.
+
+The design should not appear flat.
+
+---
+
+# READABILITY
+
+Despite the visual complexity, the main headline must remain readable within a fraction of a second.
+
+Large text should dominate.
+
+Smaller supporting text should never overpower the headline.
+
+---
+
+# OUTPUT
+
+Generate only the overlay graphics.
+
+Do not generate any product.
+
+Do not generate people.
+
+Do not generate backgrounds.
+
+Everything except the designed overlay elements should remain solid chroma green.
+
+The final result should look ready to place directly on top of a video without requiring additional graphic design work.
