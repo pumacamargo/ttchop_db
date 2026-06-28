@@ -1,0 +1,260 @@
+# AI PRODUCT TITLE OVERLAY TEMPLATE
+
+## PURPOSE
+
+Generate a premium promotional graphic overlay featuring the exact product name as the primary visual element.
+
+The overlay will later be composited over a video.
+
+Its purpose is to instantly communicate the product name while creating a premium, attention-grabbing advertisement that looks professionally designed.
+
+The product name is the single most important element and must remain perfectly accurate.
+
+---
+
+# CRITICAL TEXT ACCURACY (HIGHEST PRIORITY)
+
+The product name will be provided exactly as written by the user.
+
+This text MUST be reproduced character-for-character with absolute accuracy.
+
+Treat the product name as immutable text.
+
+Do NOT:
+
+- Correct spelling
+- Rewrite or paraphrase
+- Translate any part
+- Abbreviate words
+- Omit words
+- Reorder words
+- Replace symbols
+- Replace punctuation
+- Replace numbers
+- Invent missing characters
+- Normalize spaces
+- Change capitalization
+- Substitute similar-looking Japanese, English, or Unicode characters
+
+Every character—including spaces, capitalization, punctuation, Japanese characters, English text, numbers, units, symbols, trademarks, and special characters—must exactly match the provided input.
+
+If the exact text cannot be rendered, regenerate the image rather than altering the text.
+
+Before generating the final image, internally compare the rendered title against the provided product name and ensure they are identical.
+
+Text accuracy is always more important than artistic styling.
+
+---
+
+# PRODUCT NAME INPUT
+
+The product name will be inserted exactly as follows:
+
+{{PRODUCT_NAME}}
+
+Use this exact text as the main title.
+
+Do not modify it in any way.
+
+---
+
+# TRANSPARENT BACKGROUND
+
+Generate the overlay over a solid chroma green background (#00FF00).
+
+Everything except the designed overlay elements should remain pure chroma green.
+
+Do not add:
+
+- Gradients
+- Textures
+- Shadows
+- Lighting
+- Particles
+- Patterns
+
+to the green background.
+
+The background must remain perfectly flat for clean chroma key removal.
+
+---
+
+# GRAPHIC QUALITY
+
+The overlay should look as though it was created by an experienced advertising graphic designer.
+
+The typography itself should become a premium graphic element.
+
+The final result should resemble high-end Japanese:
+
+- TV commercials
+- Variety show graphics
+- TikTok Shop promotions
+- Retail advertisements
+- Product launch banners
+
+The design should feel polished, expensive, and production-ready.
+
+---
+
+# TYPOGRAPHY STYLE
+
+Transform the product name into premium advertising typography while preserving every character exactly.
+
+Professional techniques may include:
+
+- Thick outlines
+- Double outlines
+- Bevel effects
+- Glossy finish
+- Metallic accents
+- Realistic highlights
+- Soft reflections
+- Subtle 3D extrusion
+- Layered depth
+- Inner shadows
+- Outer shadows
+- Dynamic perspective
+- Slight curvature
+- Gradient fills
+- Premium embossed appearance
+
+Do NOT excessively bend, stretch, compress, or distort any letters if doing so could reduce readability or alter the appearance of any character.
+
+The product name must remain instantly readable.
+
+---
+
+# COLOR DESIGN
+
+Use bold, high-contrast advertising colors.
+
+Recommended combinations include:
+
+- White + Red
+- Red + Yellow
+- Gold + Black
+- White + Blue
+- Orange + Gold
+- Yellow + Black
+
+The chosen palette should maximize readability while creating visual excitement.
+
+---
+
+# VISUAL HIERARCHY
+
+Primary:
+
+- Exact Product Name
+
+Secondary (optional):
+
+- Promotional badge
+- Ribbon
+- Burst
+- Decorative label
+- Small accent graphics
+
+No secondary element should compete with the product name.
+
+---
+
+# COMPOSITION
+
+Create a complete advertising composition using elements such as:
+
+- Ribbons
+- Banners
+- Bursts
+- Stars
+- Arrows
+- Frames
+- Circles
+- Labels
+- Sparkles
+- Speed lines
+
+These decorative elements should support the typography without covering any letters.
+
+---
+
+# DEPTH
+
+Create realistic depth using:
+
+- Layered graphics
+- Overlapping decorative elements
+- Soft shadows
+- Highlights
+- Dimensional effects
+
+The overlay should never appear flat.
+
+---
+
+# READABILITY
+
+The product name should be readable in less than one second.
+
+Avoid:
+
+- Excessive perspective
+- Decorative objects covering text
+- Overlapping letters
+- Extreme stylization
+- Low contrast
+- Tiny text
+
+Readability always takes priority over artistic effects.
+
+---
+
+# FINAL VALIDATION (MANDATORY)
+
+Before generating the final image, internally verify:
+
+✓ Every character exactly matches {{PRODUCT_NAME}}
+
+✓ No characters have been changed.
+
+✓ No punctuation has changed.
+
+✓ No spaces have changed.
+
+✓ No capitalization has changed.
+
+✓ No Japanese characters have changed.
+
+✓ No English characters have changed.
+
+✓ No numbers have changed.
+
+✓ No symbols have changed.
+
+✓ No words are missing.
+
+✓ No words have been added.
+
+✓ The product name is fully readable.
+
+✓ The product name is the dominant visual element.
+
+If any check fails, regenerate the typography until the text is 100% identical to the provided product name.
+
+---
+
+# OUTPUT
+
+Generate only the promotional overlay graphics.
+
+Do not generate:
+
+- Products
+- People
+- Backgrounds
+- Scenery
+
+Everything except the designed overlay elements should remain solid chroma green (#00FF00).
+
+The final result should be immediately ready for compositing over a video without requiring additional graphic design work.
