@@ -1,0 +1,216 @@
+TIKTOK SHOP LIMITED-TIME EVENT TEMPLATE (FOMO VERSION)
+
+PURPOSE
+
+This template is designed specifically for TikTok Shop limited-time campaigns, flash sales, lowest-price events, and seasonal promotions.
+
+The goal is NOT to aggressively sell the product.
+
+The goal is to make viewers feel:
+
+"If I'm already interested in this product, I'd rather buy it now than regret paying more later."
+
+The promotion should feel like a helpful shopping tip from a friend, not an advertisement.
+
+--------------------------------------------------
+GENERAL DIALOGUE GUIDELINES
+--------------------------------------------------
+
+- Speak naturally like you're talking to a friend.
+- Sound like you accidentally found a really good deal.
+- Keep the excitement focused on the timing, not on exaggerated product claims.
+- Avoid corporate marketing language.
+- Avoid sounding like a salesperson.
+- Never dump specifications.
+- Every feature should immediately connect to a real-life benefit.
+- Keep sentences short enough for natural speech.
+- Leave room for pauses and conversational pacing.
+
+--------------------------------------------------
+NARRATIVE STRUCTURE
+--------------------------------------------------
+
+1. PATTERN INTERRUPT (Hook)
+
+Objective:
+Stop the scroll without mentioning the product immediately.
+
+Examples of direction:
+- Wait... don't buy it yet.
+- Hold on...
+- I almost paid full price for this.
+- If you've been thinking about buying one...
+- You might want to see today's price first.
+
+The hook should create curiosity about the timing rather than the product itself.
+
+--------------------------------------------------
+
+2. THE OPPORTUNITY
+
+Objective:
+Reveal that something special is happening.
+
+Focus on ideas like:
+- Limited-time event
+- Lowest price in a long time
+- Unexpected discount
+- Better timing than usual
+
+The viewer should think:
+
+"Oh... maybe today is actually the best time to buy."
+
+--------------------------------------------------
+
+3. THE DISCOVERY
+
+Objective:
+Introduce the product naturally.
+
+Good transitions include:
+
+"So I ended up getting this..."
+
+"This is the one I chose."
+
+"I was already planning to buy one anyway..."
+
+"I finally decided to grab it."
+
+Never sound like a product presentation.
+
+--------------------------------------------------
+
+4. FEATURES + REAL BENEFITS
+
+Objective:
+Mention only 1–2 important features.
+
+Always explain WHY they matter.
+
+Instead of:
+
+"It has Feature X."
+
+Say:
+
+"Now I don't have to worry about..."
+
+"It makes my daily routine much easier."
+
+"It saves me so much time."
+
+"It solved the exact problem I had."
+
+Show practical improvements instead of listing specifications.
+
+--------------------------------------------------
+
+5. FOMO MOMENT
+
+Objective:
+Create urgency without sounding pushy.
+
+Naturally communicate ideas like:
+
+- The discount is only available during the event.
+- The discounted quantity is limited.
+- First come, first served.
+- The price may go back up after the promotion.
+- If I waited, I'd probably regret it.
+
+The emotion should be:
+
+"I don't need to buy today...
+
+...but I'd hate paying more tomorrow."
+
+--------------------------------------------------
+
+6. SOFT CTA
+
+Objective:
+Guide the viewer naturally.
+
+Examples of direction:
+
+"I'm leaving the link below if you want to check today's price."
+
+"If you've already been thinking about getting one, this is probably the best time."
+
+"I'd at least check the product page before the event ends."
+
+"See if the discount is still available."
+
+Never pressure the viewer.
+
+--------------------------------------------------
+PSYCHOLOGICAL TRIGGERS
+--------------------------------------------------
+
+The script should naturally use these emotions:
+
+• Fear of paying more later
+
+"I'd rather buy it while it's discounted than regret it next week."
+
+• Fear of missing limited stock
+
+"It looks like they're only discounting a limited quantity."
+
+• Loss aversion
+
+"I wasn't planning to buy it today...
+
+but I'd regret missing the deal."
+
+• Smart shopper identity
+
+"If I already wanted it, buying it during the sale just makes more sense."
+
+• Curiosity
+
+"I checked the price out of curiosity...
+
+and ended up buying it."
+
+--------------------------------------------------
+COMPLIANCE REQUIREMENTS
+--------------------------------------------------
+
+Whenever mentioning discounts or promotions, naturally include the following ideas:
+
+- Limited quantities available.
+- First come, first served.
+- Promotion only available during the campaign period.
+- Check the product page for the latest discount information.
+
+Never imply:
+
+- Unlimited stock.
+- Guaranteed availability.
+- That everyone will receive the promotion.
+- That the discount will last forever.
+
+--------------------------------------------------
+OUTPUT FORMAT
+--------------------------------------------------
+
+[hook]:
+(Create curiosity around the timing without mentioning the product immediately.)
+
+[opportunity]:
+(Explain why today is different and why the promotion is worth noticing.)
+
+[discovery]:
+(Introduce the product naturally as something you were already interested in.)
+
+[benefits]:
+(Explain one or two features by focusing on the practical everyday benefits.)
+
+[fomo]:
+(Create urgency by mentioning the limited-time promotion, limited quantities, first-come-first-served availability, and the possibility that the price will increase after the event.)
+
+[cta]:
+(Encourage viewers to check today's price or visit the product page before the promotion ends, using a relaxed, conversational tone.)
