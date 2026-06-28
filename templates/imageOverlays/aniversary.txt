@@ -1,0 +1,224 @@
+# AI TIKTOK SHOP ANNIVERSARY EVENT OVERLAY TEMPLATE
+
+## PURPOSE
+
+Generate a premium promotional overlay announcing a TikTok Shop Anniversary Sale.
+
+The overlay will be composited over a video and must immediately communicate that a major shopping event is happening.
+
+The design should create excitement, urgency, and FOMO while remaining clean, readable, and visually premium.
+
+The final result should resemble high-end Japanese TV commercials, supermarket flyers, variety shows, and major retail campaign graphics.
+
+---
+
+# MAIN MESSAGE
+
+The primary focus is the promotional event.
+
+The overlay should visually communicate:
+
+- Anniversary Event
+- Huge Discounts
+- Limited Time
+- Limited Quantity
+- First Come, First Served
+
+The event itself should be the hero.
+
+---
+
+# TRANSPARENT BACKGROUND
+
+Generate the overlay over a solid chroma green (#00FF00) background.
+
+Everything except the designed overlay elements should remain pure chroma green.
+
+Do not add textures, gradients, lighting, shadows, particles, or effects to the green background.
+
+The background must remain perfectly flat for chroma key removal.
+
+---
+
+# GRAPHIC QUALITY
+
+The overlay should look as though it was designed by a professional advertising designer.
+
+It should feel suitable for:
+
+- TikTok Shop campaigns
+- Japanese TV commercials
+- Department store anniversary sales
+- Electronics store promotions
+- Variety show graphics
+
+The result should feel polished, energetic, colorful, and production-ready.
+
+---
+
+# VISUAL STYLE
+
+The design should immediately communicate:
+
+- Big Event
+- Celebration
+- Excitement
+- Limited-Time Opportunity
+- Massive Savings
+
+Use the visual language of premium Japanese retail advertising.
+
+---
+
+# TYPOGRAPHY
+
+The main headline should dominate the composition.
+
+Use bold premium advertising typography.
+
+Apply professional techniques when appropriate:
+
+- Thick outlines
+- Double outlines
+- Bevel effects
+- Glossy finish
+- Metallic gold accents
+- 3D extrusion
+- Perspective
+- Gradient fills
+- Realistic highlights
+- Soft reflections
+- Drop shadows
+- Ambient shadows
+- Inner glow
+- Outer glow
+
+The typography should become the main graphic element.
+
+---
+
+# COLOR DESIGN
+
+Use vibrant, high-contrast colors that communicate excitement.
+
+Recommended palettes:
+
+- Red + Gold
+- Red + Yellow
+- White + Red
+- Gold + Black
+- White + Blue
+- Orange + Yellow
+
+Gold should be used as an accent to reinforce the anniversary celebration.
+
+Avoid muted colors.
+
+---
+
+# COMPOSITION
+
+Create a complete promotional composition using decorative elements such as:
+
+- Celebration ribbons
+- Gold banners
+- Promotional badges
+- Bursts
+- Stars
+- Sparkles
+- Confetti
+- Fireworks
+- Arrows
+- Speed lines
+- Decorative circles
+- Premium labels
+- Gold frames
+
+The composition should feel dynamic and energetic without becoming cluttered.
+
+---
+
+# VISUAL HIERARCHY
+
+Largest element:
+
+Anniversary Sale headline
+
+Second level:
+
+Discount message
+
+Third level:
+
+Limited Time
+
+Limited Quantity
+
+First Come, First Served
+
+Every element should naturally guide the eye toward the main promotion.
+
+---
+
+# DEPTH
+
+Use layered graphics with realistic depth.
+
+Include:
+
+- Layer overlaps
+- Soft shadows
+- Highlights
+- Dimensional typography
+- Floating badges
+- Decorative elements at different depths
+
+The design should never appear flat.
+
+---
+
+# READABILITY
+
+The main message must be readable within one second.
+
+Large typography should dominate.
+
+Supporting text should reinforce the message without competing for attention.
+
+Avoid excessive decoration that reduces readability.
+
+---
+
+# FOMO DESIGN LANGUAGE
+
+The overlay should visually communicate urgency.
+
+Incorporate concepts such as:
+
+- Limited Time
+- Limited Quantity
+- First Come, First Served
+- Special Event
+- Anniversary Celebration
+- Biggest Savings
+- Shop Now
+
+The overall feeling should be:
+
+"If I don't check this now, I might miss the deal."
+
+---
+
+# OUTPUT
+
+Generate only the overlay graphics.
+
+Do not generate:
+
+- Products
+- People
+- Backgrounds
+
+Everything except the designed overlay elements should remain solid chroma green (#00FF00).
+
+The final result should be immediately usable on top of a video without requiring additional graphic design work.
