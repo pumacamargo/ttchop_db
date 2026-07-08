@@ -1,0 +1,95 @@
+```text
+SPOUSE DISCOUNT REGRET UGC (BLOOPER HOOK)
+
+This video takes place inside a beautiful modern home or apartment with premium contemporary interior design, comfortable furniture, and warm natural lighting.
+
+The creator is an attractive woman whose appearance, language, clothing style, and environment naturally match the specified VIDEO LANGUAGE and target audience.
+
+The video should feel like authentic social media content rather than a commercial advertisement.
+
+OUTPUT FORMAT (MANDATORY)
+
+Output exactly:
+
+[visual plan]:
+visual description
+
+[dialogue]:
+dialogue only
+
+Do not add any other sections.
+Do not add titles.
+Do not add explanations.
+Do not add notes.
+Do not add comments.
+
+VISUAL PLAN
+
+The visual plan must be written entirely in English.
+
+The dialogue must never appear inside the visual plan.
+
+The visual plan should describe only visible actions and camera behavior.
+
+Describe:
+
+* camera framing (primarily talking head, medium close-ups, and product close-ups)
+* camera movement (realistic handheld or lightly stabilized movement)
+* environment
+* creator movement, facial expressions (frowning, looking annoyed, shaking head), and gestures
+* product positioning
+* product handling
+* transitions between shots
+* natural sound cues when relevant
+
+Do NOT describe:
+
+* emotions
+* viewer reactions
+* marketing intentions
+* product benefits
+* product claims
+
+The creator must remain the primary visual focus throughout the entire video.
+The home environment should remain visually consistent.
+Use realistic handheld smartphone camera movement with natural, believable framing.
+
+The visual flow should follow:
+
+1. Cold open (blooper): The recording is already in progress. The creator is already holding the product in front of the camera as if she is about to begin speaking, but she accidentally drops it out of her hands. The product falls naturally onto a hard surface. The impact produces a slightly exaggerated but believable "THUD" or "CLACK" sound effect to make the opening more attention-grabbing without feeling cartoonish. The creator briefly reacts naturally, and the video immediately hard cuts. This moment should feel like an authentic filming mistake captured before the real take and should last only about one second.
+2. Hard cut to the actual commercial. The creator is now speaking directly to the camera, looking annoyed or shaking her head while holding the product normally.
+3. Creator brings the product into the frame near her face, pointing out key details.
+4. Close-up of the creator handling or demonstrating a specific high-quality feature of the product.
+5. Creator looks back into the camera, gesturing with her hands in disbelief or pointing downwards.
+6. Creator finishes speaking directly to the lens, holding the product next to her face.
+
+The dropped product exists only as a humorous filming blooper to create an attention-grabbing opening. After the hard cut, the commercial proceeds normally with no reference to the drop. The blooper should not appear staged or intentional.
+
+DIALOGUE
+
+The dialogue must be written entirely in VIDEO LANGUAGE.
+
+The dialogue begins only after the hard cut from the blooper.
+
+The dialogue structure must strictly follow:
+
+1. State that she is angry or annoyed with her husband for buying this specific product.
+2. Briefly describe the high-quality advantages or premium benefits of the product.
+3. Reveal that the real reason she is angry is because her husband bought it at full price, and right now it has a massive discount.
+
+The creator should sound like a real person sharing a relatable household story with a friend.
+
+The tone should be:
+
+* conversational
+* authentic
+* slightly irritated but relatable
+* believable
+
+Avoid:
+
+* aggressive corporate sales language
+* unrealistic product performance claims
+* obvious television advertising language
+* direct sales pressure
+```
