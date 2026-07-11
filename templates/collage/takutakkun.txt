@@ -1,0 +1,286 @@
+TAKU-TAKKUN CREATOR SCRIPT TEMPLATE
+
+This template defines the pacing, energy, dialogue style, psychological triggers, and conversion flow used in high-performing Japanese short-form e-commerce videos inspired by Taku-Takkun.
+
+The dialogue must feel like a creator enthusiastically sharing an incredible discovery with their audience, never like a traditional advertisement. Every sentence should either create curiosity, build trust, demonstrate value, or move the viewer one step closer to purchasing.
+
+--------------------------------------------------
+GENERAL DIALOGUE GUIDELINES
+--------------------------------------------------
+
+- Creator-Driven Voice: Speak like a real creator who genuinely discovered an amazing product and can't wait to show it.
+- High Energy: Maintain fast pacing with natural enthusiasm, but avoid sounding forced or theatrical.
+- Conversational Flow: The dialogue should feel spontaneous, as if filmed in one take for social media.
+- Show, Don't Sell: Every claim should be backed by something the viewer can immediately see or understand.
+- Benefit Before Specs: Technical specifications should only appear if they are immediately translated into practical daily benefits.
+- Short Punchy Sentences: Keep sentences concise to match fast-paced editing.
+- Momentum: Every sentence should naturally push the story forward.
+- Authenticity: Avoid corporate language, exaggerated marketing buzzwords, and generic advertising clichés.
+- Visual-First Writing: Write dialogue that naturally encourages visual demonstrations rather than long explanations.
+
+--------------------------------------------------
+NARRATIVE STRUCTURE
+--------------------------------------------------
+
+1. Instant Impact Hook
+
+Objective:
+Immediately stop the viewer from scrolling.
+
+Possible hook approaches:
+- Shocking price
+- Unexpected fact
+- Hidden problem
+- Huge improvement
+- Exclusive collaboration
+- Crazy comparison
+- "I can't believe this..." moment
+
+Rules:
+- Grab attention within the first 2-3 seconds.
+- Create curiosity before giving explanations.
+- Avoid introducing too much information.
+- Make the audience immediately want proof.
+
+Examples:
+"This is WAY cheaper than I expected."
+"Wait... this only costs..."
+"I had no idea this even existed."
+"You're seriously telling me this is real?"
+
+--------------------------------------------------
+
+2. Instant Proof
+
+Objective:
+Immediately validate the hook through visual evidence.
+
+Instead of talking about the product, demonstrate it.
+
+Possible demonstrations:
+- Stress test
+- Durability test
+- Shake test
+- Waterproof test
+- Macro close-up
+- Fingerprint detail
+- Before & After
+- One-touch mechanism
+- Speed comparison
+- Sound demonstration
+- Texture demonstration
+- Setup demonstration
+
+Rules:
+The viewer should instantly think:
+
+"Okay... that's actually impressive."
+
+--------------------------------------------------
+
+3. Problem
+
+Objective:
+Introduce a relatable frustration or inconvenience.
+
+Rules:
+- Make it feel personal.
+- Use everyday situations.
+- Avoid sounding scripted.
+
+Examples:
+"I was getting tired of..."
+"This kept happening to me..."
+"It honestly became annoying..."
+"I finally got tired of dealing with this."
+
+--------------------------------------------------
+
+4. Discovery (Solution)
+
+Objective:
+Introduce the product naturally as the solution.
+
+Rules:
+- Never sound sponsored.
+- Make it feel like a personal recommendation.
+- Present it as something you discovered yourself.
+
+Examples:
+"So I finally tried this..."
+"I ended up finding this..."
+"This completely solved it."
+"I honestly wish I'd found this sooner."
+
+--------------------------------------------------
+
+5. Value Layer (Features + Benefits)
+
+Objective:
+Explain why the product works.
+
+Every specification must answer:
+
+"So what?"
+
+Example:
+
+Instead of:
+"It has 45W charging."
+
+Say:
+"It has 45W charging, so I can recover around 60% battery during a short break."
+
+Instead of:
+"It's made from 316 stainless steel."
+
+Say:
+"So it doesn't keep coffee smells or metallic taste."
+
+Rules:
+- Never dump specifications.
+- Every feature must immediately become a practical benefit.
+- Choose only the most important 1-3 features.
+
+--------------------------------------------------
+
+6. Social Trust
+
+Objective:
+Build credibility through authentic personal experience.
+
+Possible methods:
+- Repeat purchase
+- Daily routine
+- Family usage
+- Work usage
+- Comparison against cheap alternatives
+- Warning about fake products
+- Recommendation to a specific type of person
+
+Rules:
+The creator should feel like someone helping the viewer make a smart decision, not trying to make a sale.
+
+--------------------------------------------------
+
+7. Complete Offer
+
+Objective:
+Clearly communicate everything included.
+
+Possible information:
+- Accessories
+- Included items
+- Color options
+- Size options
+- Packaging
+- Premium materials
+- Country of origin
+- Bonus items
+
+Rules:
+Keep this section concise.
+The viewer should clearly understand what they're receiving.
+
+--------------------------------------------------
+
+8. Soft Call To Action
+
+Objective:
+Naturally guide the viewer toward purchasing.
+
+Rules:
+- Never sound desperate.
+- Never pressure the audience.
+- Encourage curiosity instead of urgency.
+
+Examples:
+"Check the link below if you're interested."
+"It's linked right here."
+"Take a look if you're curious."
+"You can find everything on the product page."
+
+--------------------------------------------------
+CONVERSION FLOW
+--------------------------------------------------
+
+Every section should answer one psychological question.
+
+HOOK
+Why should I stop scrolling?
+
+↓
+
+PROOF
+Can it actually do that?
+
+↓
+
+PROBLEM
+Why do I need this?
+
+↓
+
+SOLUTION
+How does this fix my problem?
+
+↓
+
+VALUE
+Why is it actually good?
+
+↓
+
+TRUST
+Can I believe this creator?
+
+↓
+
+OFFER
+What exactly am I getting?
+
+↓
+
+CTA
+Where can I buy it?
+
+--------------------------------------------------
+OUTPUT FORMAT
+--------------------------------------------------
+
+[hook]:
+(Scroll-stopping opening)
+
+[proof]:
+(Immediate visual validation)
+
+[problem]:
+(Relatable frustration)
+
+[discovery]:
+(Natural product introduction)
+
+[value]:
+(Features immediately translated into real-world benefits)
+
+[social]:
+(Personal experience, repeat purchase, recommendation, or credibility)
+
+[offer]:
+(Everything included, accessories, options, packaging)
+
+[cta]:
+(Casual invitation to purchase)
+
+--------------------------------------------------
+FINAL WRITING RULES
+--------------------------------------------------
+
+- The first three seconds should immediately create curiosity.
+- Demonstrate before explaining.
+- Every feature must become a benefit.
+- Keep the dialogue constantly moving forward.
+- Remove filler words and unnecessary repetition.
+- Write for short-form videos between 15 and 30 seconds.
+- Every sentence should either increase curiosity, build trust, or move the viewer closer to purchase.
+- The audience should feel like they're watching a genuine creator sharing an incredible find, not a commercial.
