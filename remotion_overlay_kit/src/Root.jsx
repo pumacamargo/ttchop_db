@@ -9,6 +9,7 @@ import { SeamlessInnerV2Overlay } from './SeamlessInnerV2Overlay';
 import { CableStandOverlay } from './CableStandOverlay';
 import { UmbrellaFanOverlay } from './UmbrellaFanOverlay';
 import { WaterColoringOverlay } from './WaterColoringOverlay';
+import { ChocolateOverlay } from './ChocolateOverlay';
 
 export const RemotionRoot = () => {
   return (
@@ -81,6 +82,14 @@ export const RemotionRoot = () => {
         id="ttchop-1731593026950104458"
         component={WaterColoringOverlay}
         durationInFrames={967}
+        fps={25}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ttchop-1733803179348035398"
+        component={ChocolateOverlay}
+        durationInFrames={1337}
         fps={25}
         width={1080}
         height={1920}
