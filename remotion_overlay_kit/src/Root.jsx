@@ -10,6 +10,9 @@ import { CableStandOverlay } from './CableStandOverlay';
 import { UmbrellaFanOverlay } from './UmbrellaFanOverlay';
 import { WaterColoringOverlay } from './WaterColoringOverlay';
 import { ChocolateOverlay } from './ChocolateOverlay';
+import { PerfumeAtomizerOverlay } from './PerfumeAtomizerOverlay';
+import { CreatineOverlay } from './CreatineOverlay';
+import { BagPackOverlay } from './BagPackOverlay';
 
 export const RemotionRoot = () => {
   return (
@@ -90,6 +93,30 @@ export const RemotionRoot = () => {
         id="ttchop-1733803179348035398"
         component={ChocolateOverlay}
         durationInFrames={1337}
+        fps={25}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ttchop-1734385169485432202"
+        component={PerfumeAtomizerOverlay}
+        durationInFrames={1531}
+        fps={25}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ttchop-1734900244785235345"
+        component={CreatineOverlay}
+        durationInFrames={1211}
+        fps={25}
+        width={1080}
+        height={1920}
+      />
+      <Composition
+        id="ttchop-1734643406630651445"
+        component={BagPackOverlay}
+        durationInFrames={1039}
         fps={25}
         width={1080}
         height={1920}
