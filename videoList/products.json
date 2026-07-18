@@ -107,6 +107,22 @@
       "https://files.lemonsushi.com/achusalud/ttchop/bagBottle/05.mp4"
     ]
   },
+  "armMonitor": {
+    "productId":"SingleMonitorArmA5",
+    "videos": [
+      "https://files.lemonsushi.com/achusalud/ttchop/monitorArm/01.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/monitorArm/02.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/monitorArm/03.mp4"
+    ]
+  },
+  "Hanger": {
+    "productId":"HomeHanger9Hole",
+    "videos": [
+      "https://files.lemonsushi.com/achusalud/ttchop/hanger/01.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/hanger/02.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/hanger/03.mp4"
+    ]
+  },
   "creatine": {
     "productId":"1734900244785235345",
     "videos": [
