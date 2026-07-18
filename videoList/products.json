@@ -115,12 +115,20 @@
       "https://files.lemonsushi.com/achusalud/ttchop/monitorArm/03.mp4"
     ]
   },
-  "Hanger": {
+  "hanger": {
     "productId":"HomeHanger9Hole",
     "videos": [
       "https://files.lemonsushi.com/achusalud/ttchop/hanger/01.mp4",
       "https://files.lemonsushi.com/achusalud/ttchop/hanger/02.mp4",
       "https://files.lemonsushi.com/achusalud/ttchop/hanger/03.mp4"
+    ]
+  },
+  "markers": {
+    "productId":"ColorAcrylicMarkerSet72",
+    "videos": [
+      "https://files.lemonsushi.com/achusalud/ttchop/markers/01.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/markers/02.mp4",
+      "https://files.lemonsushi.com/achusalud/ttchop/markers/03.mp4"
     ]
   },
   "creatine": {
