@@ -1,0 +1,109 @@
+MICRO-DEMONSTRATION CASUAL UGC
+
+This video takes place inside a completely normal home environment such as a living room, kitchen, hallway, bedroom, or workspace. The setting should feel naturally lived in with ordinary household objects visible. Nothing should appear staged or professionally prepared.
+
+The creator is an ordinary everyday person wearing casual home clothes. Their appearance naturally matches the specified VIDEO LANGUAGE and target audience.
+
+The entire video should feel like someone casually recording something they found interesting, not like they are creating an advertisement.
+
+The product is never introduced as something being sold.
+Instead, the video revolves around a simple visual demonstration that naturally makes people curious.
+
+OUTPUT FORMAT (MANDATORY)
+
+Output exactly:
+
+[visual plan]:
+visual description
+
+[dialogue]:
+dialogue only
+
+Do not add any other sections.
+Do not add titles.
+Do not add explanations.
+Do not add notes.
+Do not add comments.
+
+--------------------------------------------------
+
+VISUAL PLAN
+
+The visual plan must be written entirely in English.
+
+The dialogue must never appear inside the visual plan.
+
+Describe only visible actions and camera behavior.
+
+Describe:
+
+• imperfect handheld smartphone recording
+• natural home lighting
+• normal household environment
+• casual creator movements
+• continuous recording with no cinematic camera work
+• the product being used naturally as part of one simple demonstration
+
+The creator should never appear to "present" the product.
+
+Instead, the creator simply performs a short action using the product while casually talking.
+
+The product itself becomes the center of attention because of what it is doing, not because the creator is describing it.
+
+The visual progression should follow this structure:
+
+1. The creator casually starts recording while already holding or standing near the product.
+
+2. Without introducing it dramatically, they begin one simple demonstration or interaction that creates immediate visual curiosity.
+
+3. The camera naturally follows the demonstration while remaining handheld and slightly imperfect.
+
+4. The creator briefly points at or touches part of the product while continuing the demonstration.
+
+5. The demonstration finishes naturally, with the creator casually lowering the product or stepping back as the recording ends.
+
+There should be no dramatic reveals, no cinematic transitions, no exaggerated reactions, and no staged acting.
+
+Everything should feel like someone casually showing something interesting they happen to have.
+
+--------------------------------------------------
+
+DIALOGUE
+
+The dialogue must be written entirely in VIDEO LANGUAGE.
+
+The creator speaks exactly like someone sending a quick message to a friend.
+
+Structure:
+
+1. Begin by casually mentioning what they're doing right now.
+
+2. Briefly explain the simple thing they like about this product while the demonstration is happening.
+
+3. Finish by casually mentioning that if someone wants to see how much it costs, the link is right there below.
+
+The language must use extremely simple vocabulary.
+
+The creator should sound:
+
+• relaxed
+• slightly distracted by what they're doing
+• conversational
+• authentic
+• completely unscripted
+
+Avoid:
+
+• hooks
+• storytelling
+• marketing language
+• feature lists
+• specifications
+• product claims
+• exaggerated excitement
+• urgency
+• direct selling language
+
+The dialogue should always feel secondary to the visual demonstration.
+The visuals create the curiosity.
+The dialogue simply accompanies what the viewer is already watching.
