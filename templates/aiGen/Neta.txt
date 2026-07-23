@@ -1,13 +1,8 @@
-MICRO-DEMONSTRATION CASUAL UGC
+ULTRA-RAW CASUAL UGC - HIGH CONVERSION PRICE-HOOK STRATEGY
 
-This video takes place inside a completely normal home environment such as a living room, kitchen, hallway, bedroom, or workspace. The setting should feel naturally lived in with ordinary household objects visible. Nothing should appear staged or professionally prepared.
+This video takes place inside a completely normal, unedited home room (bedroom, living room, or study). The lighting is entirely natural and imperfect, relying on standard overhead warm ceiling lights or ambient window daylight. No studio lighting, softboxes, or professional gear are used.
 
-The creator is an ordinary everyday person wearing casual home clothes. Their appearance naturally matches the specified VIDEO LANGUAGE and target audience.
-
-The entire video should feel like someone casually recording something they found interesting, not like they are creating an advertisement.
-
-The product is never introduced as something being sold.
-Instead, the video revolves around a simple visual demonstration that naturally makes people curious.
+The creator is a relatable individual in casual everyday home clothes (e.g., oversized t-shirt, hoodie, sweatpants). Their physical gestures, posture, and facial expressions look completely unscripted, natural, and authentic.
 
 OUTPUT FORMAT (MANDATORY)
 
@@ -25,85 +20,59 @@ Do not add explanations.
 Do not add notes.
 Do not add comments.
 
---------------------------------------------------
-
-VISUAL PLAN
+==============================================================================
+VISUAL PLAN (IN ENGLISH)
+==============================================================================
 
 The visual plan must be written entirely in English.
-
 The dialogue must never appear inside the visual plan.
+Describe only visible physical actions, handling of objects, and camera physics.
 
-Describe only visible actions and camera behavior.
+Camera Setup & Physics:
+- Framing: Imperfect handheld selfie angle, slightly off-center talking head, shot on a front-facing smartphone camera.
+- Camera Movement: Organic, subtle hand shaking and minor micro-adjustments in position throughout the continuous shot.
+- Environment: Casual, unarranged background with lived-in everyday objects (books, coffee mug, couch, untidy shelves).
+- Cuts: Zero edits or jump cuts. One continuous, unedited raw smartphone recording from start to finish.
 
-Describe:
+Detailed Visual Sequence:
+1. START / UNBOXING-PICKUP (0:00 - 0:03):
+   - Creator looks into the lens, adjusts their grip on the smartphone slightly with one hand.
+   - With the other hand, they lift [PRODUCT NAME] into the frame from a shipping box or table.
+   - Creator leans slightly closer to the screen, showing a reaction of slight surprise.
 
-• imperfect handheld smartphone recording
-• natural home lighting
-• normal household environment
-• casual creator movements
-• continuous recording with no cinematic camera work
-• the product being used naturally as part of one simple demonstration
+2. CLOSE-UP INSPECTION & TEXTURE (0:03 - 0:07):
+   - Creator brings [PRODUCT NAME] closer to the camera lens, momentarily obscuring part of their face.
+   - They tap, press, or run a finger over the key visual feature/material of [PRODUCT NAME] to demonstrate texture or build quality.
+   - They rotate the product slowly in hand to show the front, back, and build edges.
 
-The creator should never appear to "present" the product.
+3. REAL-TIME DEMONSTRATION (0:07 - 0:12):
+   - Creator executes a quick, practical demonstration: [DETAILED PRODUCT ACTION / USE CASE].
+   - The camera naturally re-adjusts focus to follow the hands doing the action in real-time without cuts.
 
-Instead, the creator simply performs a short action using the product while casually talking.
+4. CLEANUP / SETTLING & POINTING (0:12 - 0:16):
+   - Creator finishes the main action (e.g., wiping clean, placing the final item, turning it off).
+   - They rest [PRODUCT NAME] on the table surface in full view.
+   - Creator looks directly into the lens and casually extends a index finger downward toward the bottom-left/bottom-right corner of the video frame.
 
-The product itself becomes the center of attention because of what it is doing, not because the creator is describing it.
+5. OUTRO & CUT (0:16 - 0:20):
+   - Creator keeps pointing down for a moment while finishing their sentence with a relaxed, honest facial expression.
+   - They lean forward slightly toward the phone to reach for the screen record/stop button as the clip cuts.
 
-The visual progression should follow this structure:
+==============================================================================
+DIALOGUE OPTIONS (BY TARGET LANGUAGE & SLANG)
+==============================================================================
 
-1. The creator casually starts recording while already holding or standing near the product.
+Option A: MEXICAN SPANISH SLANG (Español México - Tono UGC)
+------------------------------------------------------------------------------
+Slang features: "La neta", "O sea", "Al chile", "En oferta", "Vayan al carrito".
 
-2. Without introducing it dramatically, they begin one simple demonstration or interaction that creates immediate visual curiosity.
+[dialogue]:
+"La neta, no sé quién le puso este precio, pero está rarísimo. O sea, lo compré sin pensarlo tanto y cuando me llegó... ¡wow! Se los juro, al chile no esperaba que fuera así de bueno. Literal es de esas cosas que dices: «Okay, esto sí vale cada peso». Vayan a verlo al carrito aquí abajo en serio, porque luego estas cosas vuelan y ya no vuelven. Ahorita sigue en oferta y todavía hay stock, pero pónganse las pilas porque no creo que dure mucho."
 
-3. The camera naturally follows the demonstration while remaining handheld and slightly imperfect.
+------------------------------------------------------------------------------
+Option B: JAPANESE CASUAL SLANG (日本語 - ネット・SNSスラング)
+------------------------------------------------------------------------------
+Slang features: "ガチで" (Gachi de = La neta), "価格設定バグってる" (Price setting bugged = Precio rarísimo), "エグい" (Egui = Increíble/Wow), "秒で消える" (Van a desaparecer volando).
 
-4. The creator briefly points at or touches part of the product while continuing the demonstration.
-
-5. The demonstration finishes naturally, with the creator casually lowering the product or stepping back as the recording ends.
-
-There should be no dramatic reveals, no cinematic transitions, no exaggerated reactions, and no staged acting.
-
-Everything should feel like someone casually showing something interesting they happen to have.
-
---------------------------------------------------
-
-DIALOGUE
-
-The dialogue must be written entirely in VIDEO LANGUAGE.
-
-The creator speaks exactly like someone sending a quick message to a friend.
-
-Structure:
-
-1. Begin by casually mentioning what they're doing right now.
-
-2. Briefly explain the simple thing they like about this product while the demonstration is happening.
-
-3. Finish by casually mentioning that if someone wants to see how much it costs, the link is right there below.
-
-The language must use extremely simple vocabulary.
-
-The creator should sound:
-
-• relaxed
-• slightly distracted by what they're doing
-• conversational
-• authentic
-• completely unscripted
-
-Avoid:
-
-• hooks
-• storytelling
-• marketing language
-• feature lists
-• specifications
-• product claims
-• exaggerated excitement
-• urgency
-• direct selling language
-
-The dialogue should always feel secondary to the visual demonstration.
-The visuals create the curiosity.
-The dialogue simply accompanies what the viewer is already watching.
+[dialogue]:
+「ガチで、誰がこの価格設定にしたのか意味分かんないんだけど！正気？ってレベルでバグってる。正直そこまで期待しないでノリで買ってみたんだけど、届いてみたらマジでエグい…！久々に『あ、これ買いだわ』って思ったやつ。気になってる人は本気で下の黄色いカートからチェックしてみて。こういうのってバズると一瞬で在庫消えて再入荷しないから。今ならまだ割引やってるけど、マジで秒で売り切れると思うから早めがおすすめ！」
